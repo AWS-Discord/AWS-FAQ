@@ -184,6 +184,8 @@ An understanding of DevOps and Agile environments
 
 5. CompTIA [Tech Town Index 2019](https://www.comptia.org/content/research/best-tech-cities-it-jobs)
 
+6. [IT Career Roadmap 2020 by Salary](https://i.lensdump.com/i/iHcJHP.png) - credits to [/u/SinecureLife](https://www.reddit.com/r/ITCareerQuestions/comments/dbjkdx/oc_common_it_career_paths_roadmap_visual_2020/)
+
 # What Certification Should I Get?
 
 1. [Your Future](https://www.youtube.com/watch?v=oxZa1oSGUps) - ([David Bombal](https://www.linkedin.com/in/davidbombal/))
