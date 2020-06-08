@@ -124,6 +124,8 @@ This section covers things like customer success stories, case studies into cust
 
 7. [Automating Your Documentation](https://www.youtube.com/watch?v=Gma8WAP-XPk) using AWS and Serverless
 
+8. [The Westrum Organization Culture Model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
+
 # Communities (in no particular order)
 
 1. Linux Academy Slack - [https://linuxacademy-community-slack.herokuapp.com/](https://linuxacademy-community-slack.herokuapp.com/)
