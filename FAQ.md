@@ -36,6 +36,8 @@
 
 7. [Quizlet](https://www.reddit.com/r/AWSCertifications/comments/gz6ie9/quizlets_aws_certification_practice_questions_by)
 
+8. [Exam Pro](https://www.exampro.co/) included with courses
+
 # AWS Certification Cheat Sheets (in no particular order)
 
 1. [Tutorial Dojo](https://tutorialsdojo.com/) - (Jon Bonso) 
@@ -45,6 +47,8 @@
 3. [Curated list](https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc) of AWS resources for the certification 
 
 4. [AWS in Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
+
+5. [Exam Pro](https://www.exampro.co/) included with courses
 
 # AWS Whitepaper Help (in no particular order)
 
