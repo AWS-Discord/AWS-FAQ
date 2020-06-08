@@ -34,6 +34,8 @@
 
 6. [Review Prep](https://reviewnprep.com/quiz)
 
+7. [Quizlet](https://www.reddit.com/r/AWSCertifications/comments/gz6ie9/quizlets_aws_certification_practice_questions_by)
+
 # AWS Certification Cheat Sheets (in no particular order)
 
 1. [Tutorial Dojo](https://tutorialsdojo.com/) - (Jon Bonso) 
