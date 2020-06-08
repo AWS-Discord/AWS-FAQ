@@ -124,7 +124,7 @@ This section covers things like customer success stories, case studies into cust
 
 7. [Automating Your Documentation](https://www.youtube.com/watch?v=Gma8WAP-XPk) using AWS and Serverless
 
-8. [The Westrum Organization Culture Model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
+8. [The Westrum Organization Culture Model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) - This covers at high-level the signs of an organization's culture. The value here is identifying what organizations' culture best fits the job seeker.
 
 # Communities (in no particular order)
 
