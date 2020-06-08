@@ -142,7 +142,7 @@ This section covers things like customer success stories, case studies into cust
 
 # What Do I Need For AWS Job?
 
-While not specific to AWS, the **[DevOps Roadma**p](https://roadmap.sh/devops) is incredibly useful in painting some context for the general learning of AWS concepts like EC2 and logs management and CI/CD tooling.
+While not specific to AWS, the [DevOps Roadmap](https://roadmap.sh/devops) is incredibly useful in painting some context for the general learning of AWS concepts like EC2 and logs management and CI/CD tooling.
 
 [Why An AWS Certification Will Not Get You An AWS Job!](https://www.reddit.com/r/AmazonWebServices/comments/ga0tqc/why_an_aws_certification_will_not_get_you_an_aws/)
 
