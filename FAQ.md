@@ -270,6 +270,14 @@ AWS Topics more:Explanation
 
 4. AWS [Status Page Explanations](https://github.com/neilthecellist/Statuspage2English)
 
+# Recommended Reddit posts
+
+1. Thread about how to [start a career in cloud computing](https://www.reddit.com/r/ITCareerQuestions/comments/crn6qp/how_do_you_start_a_career_in_cloud_computing/ex7fg16/)
+
+2. Why you should avoid [exams dumps](https://www.reddit.com/r/AmazonWebServices/comments/gn0m97/why_you_should_avoid_aws_exam_dumps/)
+
+3. Take care [about costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
+
 # I Still Have Questions
 
 [How to Ask Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html)
