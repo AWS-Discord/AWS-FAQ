@@ -165,19 +165,14 @@ You can find recruiters by doing fuzzy searches on keywords + location. Then fol
 [Where Do I Find Recruiters?](https://www.reddit.com/r/ITCareerQuestions/comments/f8bo3v/where_do_i_find_recruiters/)
 
 That being said here is a very general idea to get you started.
-
-At least 1 major cloud associate level certification (AWS, Azure, GCP)
-
-At least 1 hands on with Ansible, Puppet, Chef, Salt
-
-At least 1 hands on with Docker or Kubernetes
-
-At least one scripting language, perf Python, JavaScript, or Java 
-
-At least 1 Windows or Linux, perf both
-
-An understanding of DevOps and Agile environments
-
+<ul>
+    <li>At least 1 major cloud associate level certification (AWS, Azure, GCP)</li>
+    <li>At least 1 hands on with Ansible, Puppet, Chef, Salt</li>
+    <li>At least 1 hands on with Docker or Kubernetes</li>
+    <li>At least one scripting language, perf Python, JavaScript, or Java</li>
+    <li>At least 1 Windows or Linux, perf both</li>
+    <li>An understanding of DevOps and Agile environments</li>
+</ul>
 # How Much Should I Make At x Position?
 
 1. [Glassdoor](https://www.glassdoor.com/)
@@ -282,9 +277,8 @@ AWS Topics more:Explanation
 
 [How to Ask Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html)
 
+<sup><sub>
 Versioning + Contributors
-
 June 4th 2020 - First Draft by [Dreadstar22](https://www.reddit.com/user/Dreadstar22)
-
 June 4th 2020 - First Revisions + Adds by [neilthecellist](https://www.reddit.com/user/neilthecellist/), [meshuga](https://github.com/meshuga), [Leandro Damascena](https://github.com/leandrodamascena), [Paul Casey](https://www.linkedin.com/in/heycasey/)
-
+    </sup></sub>
