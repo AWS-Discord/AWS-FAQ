@@ -267,18 +267,18 @@ AWS Topics more:Explanation
 
 # Recommended Reddit posts
 
-1. Thread about how to [start a career in cloud computing](https://www.reddit.com/r/ITCareerQuestions/comments/crn6qp/how_do_you_start_a_career_in_cloud_computing/ex7fg16/)
+1. How To [Start a Career in Cloud Computing](https://www.reddit.com/r/ITCareerQuestions/comments/crn6qp/how_do_you_start_a_career_in_cloud_computing/ex7fg16/)
 
-2. Why you should avoid [exams dumps](https://www.reddit.com/r/AmazonWebServices/comments/gn0m97/why_you_should_avoid_aws_exam_dumps/)
+2. Why You Should Avoid [Exams Dumps](https://www.reddit.com/r/AmazonWebServices/comments/gn0m97/why_you_should_avoid_aws_exam_dumps/)
 
-3. Take care [about costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
+3. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
 
 # I Still Have Questions
 
 [How to Ask Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html)
 
 <sup><sub>
-Versioning + Contributors
-June 4th 2020 - First Draft by [Dreadstar22](https://www.reddit.com/user/Dreadstar22)
+Versioning + Contributors<br>
+June 4th 2020 - First Draft by [Dreadstar22](https://www.reddit.com/user/Dreadstar22)<br>
 June 4th 2020 - First Revisions + Adds by [neilthecellist](https://www.reddit.com/user/neilthecellist/), [meshuga](https://github.com/meshuga), [Leandro Damascena](https://github.com/leandrodamascena), [Paul Casey](https://www.linkedin.com/in/heycasey/)
     </sup></sub>
