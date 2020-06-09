@@ -173,6 +173,7 @@ That being said here is a very general idea to get you started.
     <li>At least 1 Windows or Linux, perf both</li>
     <li>An understanding of DevOps and Agile environments</li>
 </ul>
+
 # How Much Should I Make At x Position?
 
 1. [Glassdoor](https://www.glassdoor.com/)
