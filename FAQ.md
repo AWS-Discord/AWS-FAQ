@@ -208,6 +208,8 @@ That being said here is a very general idea to get you started.
 
 7. [Over The Wire](https://overthewire.org/wargames/) (Security)
 
+8. [DevOps Bootcamp](https://www.youtube.com/playlist?list=PLleOCN2eBn8IhLAckXL0BWomad5lrhB8j) (24 Video DevOps Bootcamp)
+
 # More Resources? (in no particular order)
 
 CCP Write Ups
