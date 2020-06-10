@@ -169,7 +169,7 @@ That being said here is a very general idea to get you started.
     <li>At least 1 major cloud associate level certification (AWS, Azure, GCP)</li>
     <li>At least 1 hands on with Ansible, Puppet, Chef, Salt</li>
     <li>At least 1 hands on with Docker or Kubernetes</li>
-    <li>At least one scripting language, perf Python, JavaScript, or Java</li>
+    <li>At least one scripting language, perf Python, JavaScript, Go, or Java</li>
     <li>At least 1 Windows or Linux, perf both</li>
     <li>An understanding of DevOps and Agile environments</li>
 </ul>
