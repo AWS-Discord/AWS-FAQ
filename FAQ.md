@@ -4,7 +4,7 @@
 
 2. [Linux Academy](https://linuxacademy.com/) - (multiple authors)
 
-3. [Data Cumulus](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/))
+3. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
 
 4. [Tutorial Dojo](https://tutorialsdojo.com/) - ([Jon Bonso](https://www.linkedin.com/in/jonbonso/))
 
@@ -37,6 +37,8 @@
 7. [Quizlet](https://www.reddit.com/r/AWSCertifications/comments/gz6ie9/quizlets_aws_certification_practice_questions_by)
 
 8. [Exam Pro](https://www.exampro.co/) included with courses
+
+9. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
 
 # AWS Certification Cheat Sheets (in no particular order)
 
