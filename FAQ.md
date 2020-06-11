@@ -282,6 +282,14 @@ AWS Topics more:Explanation
 
 [How to Ask Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html)
 
+[So you want to be a wizard](https://jvns.ca/blog/2017/12/01/new-zine--so-you-want-to-be-a-wizard/)
+
+- how to ask awesome questions
+- reading the source code
+- debugging skills
+- how to design software
+- and more!
+
 <sup><sub>
 Versioning + Contributors<br>
 June 4th 2020 - First Draft by [Dreadstar22](https://www.reddit.com/user/Dreadstar22)<br>
