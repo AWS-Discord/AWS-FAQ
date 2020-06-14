@@ -152,11 +152,37 @@ This section covers things like customer success stories, case studies into cust
 
 # What Do I Need For AWS Job?
 
+There are three main groups of jobs related with AWS:
+1. DevOps Engineer
+2. Software/Cloud Engineer
+3. Software/Cloud Architect
+
 While not specific to AWS, the [DevOps Roadmap](https://roadmap.sh/devops) is incredibly useful in painting some context for the general learning of AWS concepts like EC2 and logs management and CI/CD tooling.
 
-[Why An AWS Certification Will Not Get You An AWS Job!](https://www.reddit.com/r/AmazonWebServices/comments/ga0tqc/why_an_aws_certification_will_not_get_you_an_aws/)
+That being said, for DevOps position, here is a very general idea to get you started:
+1. At least 1 major cloud associate level certification (AWS, Azure, GCP)</li>
+2. At least 1 hands on with Ansible, Puppet, Chef, Salt</li>
+3. At least 1 hands on with Docker or Kubernetes</li>
+4. At least one scripting language, perf Python, JavaScript, Go, or Java</li>
+5. At least 1 Windows or Linux, perf both</li>
+6. An understanding of DevOps and Agile environments</li>
 
-[We Hire AWS Solutions Architects Not Paper Certified Ones](https://medium.com/linux-academy/we-hire-real-aws-solutions-architects-not-paper-certified-ones-e17bd28ba487)
+Software/Cloud Engineer is responsible for a business logic that is about to be implemented ([more in the definition](https://www.comptia.org/blog/your-next-move-cloud-engineer)). Since in such role, work on the actual code is being done, automation skills are not so important but a practical knowledge of tools that help you implement logic is necessary. That include:
+
+1. Ability to use: EC2, ECS, EKS, Lambda for development work
+2. Ability to use available databases and storage products to model and store data in:
+    1. Relational databases like PostgreSQL, MariaDB
+    2. NoSQL datastores like DynamoDB, DocumentDB, Redis, Elasticsearch
+    3. S3
+3. Asynchronous systems like SQS, SNS, Kafka
+4. API platforms like API Gateway, AppSync
+5. Big Data platforms like AWS EMR, Glue, Athena
+6. Knowledge of CloudFront to optimize websites (if doing web development)
+
+When searching for AWS jobs, there's a lot of offers for Cloud/Solution/Software Architect positions. In general, an architect at an IT project is _a software developer expert who makes high-level design choices and tries to enforce technical standards, including software coding standards, tools, and platforms._ [Software architect](https://en.wikipedia.org/wiki/Software_architect). Such role encompasses technical expert skills and soft skills, since communication across team members, representatives and across enterprise can be necessary. Usually an architect is a  distinguished developer with years of work experience across many projects. No single path leads to this role but [this paper](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/fose/finalgarlan.pdf) tries to sketch a roadmap.
+
+Keep in mind, practice and experience are often more important than certificates:
+[Why An AWS Certification Will Not Get You An AWS Job!](https://www.reddit.com/r/AmazonWebServices/comments/ga0tqc/why_an_aws_certification_will_not_get_you_an_aws/)
 
 No two jobs will be the same. Find out the AWS position you want and then go research it on Indeed, LinkedIn, ZipRecruiter, CareerBuilder, GlassDoor, Monster. What appears on "most" of those job reqs is what you need to learn/know.
 
@@ -165,16 +191,6 @@ No two jobs will be the same. Find out the AWS position you want and then go res
 You can find recruiters by doing fuzzy searches on keywords + location. Then follow or message said recruiter for future opportunities. From there you can also find the commonly used "recruiter hashtags" that are relevant to your area. Recruiters tend to use common hashtags for job postings (sometimes location dependent -- #awsToronto #awsSeattle)
 
 [Where Do I Find Recruiters?](https://www.reddit.com/r/ITCareerQuestions/comments/f8bo3v/where_do_i_find_recruiters/)
-
-That being said here is a very general idea to get you started.
-<ul>
-    <li>At least 1 major cloud associate level certification (AWS, Azure, GCP)</li>
-    <li>At least 1 hands on with Ansible, Puppet, Chef, Salt</li>
-    <li>At least 1 hands on with Docker or Kubernetes</li>
-    <li>At least one scripting language, perf Python, JavaScript, Go, or Java</li>
-    <li>At least 1 Windows or Linux, perf both</li>
-    <li>An understanding of DevOps and Agile environments</li>
-</ul>
 
 # How Much Should I Make At x Position?
 
