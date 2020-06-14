@@ -167,15 +167,17 @@ That being said, for DevOps position, here is a very general idea to get you sta
 5. At least 1 Windows or Linux, perf both</li>
 6. An understanding of DevOps and Agile environments</li>
 
-Software/Cloud Engineer is responsible for a business logic that is about to be implemented. Since in such role, work on the actual code is being done, automation skills are not so important but a practical knowledge of tools that help you implement logic is necessary. That include:
+Software/Cloud Engineer is responsible for a business logic that is about to be implemented ([more in the definition](https://www.comptia.org/blog/your-next-move-cloud-engineer)). Since in such role, work on the actual code is being done, automation skills are not so important but a practical knowledge of tools that help you implement logic is necessary. That include:
 
 1. Ability to use: EC2, ECS, EKS, Lambda for development work
 2. Ability to use available databases and storage products to model and store data in:
     1. Relational databases like PostgreSQL, MariaDB
     2. NoSQL datastores like DynamoDB, DocumentDB, Redis, Elasticsearch
     3. S3
-3. Big Data platforms like AWS EMR, Glue, Athena
-3. Knowledge of CloudFront to optimize websites (if doing web development)
+3. Asynchronous systems like SQS, SNS, Kafka
+4. API platforms like API Gateway, AppSync
+5. Big Data platforms like AWS EMR, Glue, Athena
+6. Knowledge of CloudFront to optimize websites (if doing web development)
 
 When searching for AWS jobs, there's a lot of offers for Cloud/Solution/Software Architect positions. In general, an architect at an IT project is _a software developer expert who makes high-level design choices and tries to enforce technical standards, including software coding standards, tools, and platforms._ [Software architect](https://en.wikipedia.org/wiki/Software_architect). Such role encompasses technical expert skills and soft skills, since communication across team members, representatives and across enterprise can be necessary. Usually an architect is a  distinguished developer with years of work experience across many projects. No single path leads to this role but [this paper](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/fose/finalgarlan.pdf) tries to sketch a roadmap.
 
