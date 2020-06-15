@@ -4,7 +4,7 @@
 
 2. [Linux Academy](https://linuxacademy.com/) - (multiple authors)
 
-3. [Data Cumulus](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/))
+3. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
 
 4. [Tutorial Dojo](https://tutorialsdojo.com/) - ([Jon Bonso](https://www.linkedin.com/in/jonbonso/))
 
@@ -37,6 +37,8 @@
 7. [Quizlet](https://www.reddit.com/r/AWSCertifications/comments/gz6ie9/quizlets_aws_certification_practice_questions_by)
 
 8. [Exam Pro](https://www.exampro.co/) included with courses
+
+9. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
 
 # AWS Certification Cheat Sheets (in no particular order)
 
@@ -150,11 +152,37 @@ This section covers things like customer success stories, case studies into cust
 
 # What Do I Need For AWS Job?
 
+There are three main groups of jobs related with AWS:
+1. DevOps Engineer
+2. Software/Cloud Engineer
+3. Software/Cloud Architect
+
 While not specific to AWS, the [DevOps Roadmap](https://roadmap.sh/devops) is incredibly useful in painting some context for the general learning of AWS concepts like EC2 and logs management and CI/CD tooling.
 
-[Why An AWS Certification Will Not Get You An AWS Job!](https://www.reddit.com/r/AmazonWebServices/comments/ga0tqc/why_an_aws_certification_will_not_get_you_an_aws/)
+That being said, for DevOps position, here is a very general idea to get you started:
+1. At least 1 major cloud associate level certification (AWS, Azure, GCP)</li>
+2. At least 1 hands on with Ansible, Puppet, Chef, Salt</li>
+3. At least 1 hands on with Docker or Kubernetes</li>
+4. At least one scripting language, perf Python, JavaScript, Go, or Java</li>
+5. At least 1 Windows or Linux, perf both</li>
+6. An understanding of DevOps and Agile environments</li>
 
-[We Hire AWS Solutions Architects Not Paper Certified Ones](https://medium.com/linux-academy/we-hire-real-aws-solutions-architects-not-paper-certified-ones-e17bd28ba487)
+Software/Cloud Engineer is responsible for a business logic that is about to be implemented ([more in the definition](https://www.comptia.org/blog/your-next-move-cloud-engineer)). Since in such role, work on the actual code is being done, automation skills are not so important but a practical knowledge of tools that help you implement logic is necessary. That include:
+
+1. Ability to use: EC2, ECS, EKS, Lambda for development work
+2. Ability to use available databases and storage products to model and store data in:
+    1. Relational databases like PostgreSQL, MariaDB
+    2. NoSQL datastores like DynamoDB, DocumentDB, Redis, Elasticsearch
+    3. S3
+3. Asynchronous systems like SQS, SNS, Kafka
+4. API platforms like API Gateway, AppSync
+5. Big Data platforms like AWS EMR, Glue, Athena
+6. Knowledge of CloudFront to optimize websites (if doing web development)
+
+When searching for AWS jobs, there's a lot of offers for Cloud/Solution/Software Architect positions. In general, an architect at an IT project is _a software developer expert who makes high-level design choices and tries to enforce technical standards, including software coding standards, tools, and platforms._ [Software architect](https://en.wikipedia.org/wiki/Software_architect). Such role encompasses technical expert skills and soft skills, since communication across team members, representatives and across enterprise can be necessary. Usually an architect is a  distinguished developer with years of work experience across many projects. No single path leads to this role but [this paper](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/fose/finalgarlan.pdf) tries to sketch a roadmap.
+
+Keep in mind, practice and experience are often more important than certificates:
+[Why An AWS Certification Will Not Get You An AWS Job!](https://www.reddit.com/r/AmazonWebServices/comments/ga0tqc/why_an_aws_certification_will_not_get_you_an_aws/)
 
 No two jobs will be the same. Find out the AWS position you want and then go research it on Indeed, LinkedIn, ZipRecruiter, CareerBuilder, GlassDoor, Monster. What appears on "most" of those job reqs is what you need to learn/know.
 
@@ -163,20 +191,6 @@ No two jobs will be the same. Find out the AWS position you want and then go res
 You can find recruiters by doing fuzzy searches on keywords + location. Then follow or message said recruiter for future opportunities. From there you can also find the commonly used "recruiter hashtags" that are relevant to your area. Recruiters tend to use common hashtags for job postings (sometimes location dependent -- #awsToronto #awsSeattle)
 
 [Where Do I Find Recruiters?](https://www.reddit.com/r/ITCareerQuestions/comments/f8bo3v/where_do_i_find_recruiters/)
-
-That being said here is a very general idea to get you started.
-
-At least 1 major cloud associate level certification (AWS, Azure, GCP)
-
-At least 1 hands on with Ansible, Puppet, Chef, Salt
-
-At least 1 hands on with Docker or Kubernetes
-
-At least one scripting language, perf Python, JavaScript, or Java 
-
-At least 1 Windows or Linux, perf both
-
-An understanding of DevOps and Agile environments
 
 # How Much Should I Make At x Position?
 
@@ -211,6 +225,8 @@ An understanding of DevOps and Agile environments
 6. [Linux Journey](https://linuxjourney.com/) [https://linuxjourney.com/](https://linuxjourney.com/) (Linux)
 
 7. [Over The Wire](https://overthewire.org/wargames/) (Security)
+
+8. [DevOps Bootcamp](https://www.youtube.com/playlist?list=PLleOCN2eBn8IhLAckXL0BWomad5lrhB8j) (24 Video DevOps Bootcamp)
 
 # More Resources? (in no particular order)
 
@@ -272,19 +288,26 @@ AWS Topics more:Explanation
 
 # Recommended Reddit posts
 
-1. Thread about how to [start a career in cloud computing](https://www.reddit.com/r/ITCareerQuestions/comments/crn6qp/how_do_you_start_a_career_in_cloud_computing/ex7fg16/)
+1. How To [Start a Career in Cloud Computing](https://www.reddit.com/r/ITCareerQuestions/comments/crn6qp/how_do_you_start_a_career_in_cloud_computing/ex7fg16/)
 
-2. Why you should avoid [exams dumps](https://www.reddit.com/r/AmazonWebServices/comments/gn0m97/why_you_should_avoid_aws_exam_dumps/)
+2. Why You Should Avoid [Exams Dumps](https://www.reddit.com/r/AmazonWebServices/comments/gn0m97/why_you_should_avoid_aws_exam_dumps/)
 
-3. Take care [about costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
+3. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
 
 # I Still Have Questions
 
 [How to Ask Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html)
 
-Versioning + Contributors
+[So you want to be a wizard](https://jvns.ca/blog/2017/12/01/new-zine--so-you-want-to-be-a-wizard/)
 
-June 4th 2020 - First Draft by [Dreadstar22](https://www.reddit.com/user/Dreadstar22)
+- how to ask awesome questions
+- reading the source code
+- debugging skills
+- how to design software
+- and more!
 
+<sup><sub>
+Versioning + Contributors<br>
+June 4th 2020 - First Draft by [Dreadstar22](https://www.reddit.com/user/Dreadstar22)<br>
 June 4th 2020 - First Revisions + Adds by [neilthecellist](https://www.reddit.com/user/neilthecellist/), [meshuga](https://github.com/meshuga), [Leandro Damascena](https://github.com/leandrodamascena), [Paul Casey](https://www.linkedin.com/in/heycasey/)
-
+    </sup></sub>
