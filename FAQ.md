@@ -286,6 +286,8 @@ AWS Topics more:Explanation
 
 4. AWS [Status Page Explanations](https://github.com/neilthecellist/Statuspage2English)
 
+5. A curated list of awesome [AWS Lambda Layers](https://github.com/mthenw/awesome-layers)
+
 # Recommended Reddit posts
 
 1. How To [Start a Career in Cloud Computing](https://www.reddit.com/r/ITCareerQuestions/comments/crn6qp/how_do_you_start_a_career_in_cloud_computing/ex7fg16/)
