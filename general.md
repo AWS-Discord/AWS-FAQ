@@ -1,119 +1,3 @@
-# AWS Certification Course Resources (in no particular order)
-
-1. [learn.cantrill.io](https://learn.cantrill.io/) - ([Adrian Cantrill](https://www.linkedin.com/in/adriancantrill/))
-
-2. [Linux Academy](https://linuxacademy.com/) - (multiple authors)
-
-3. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
-
-4. [Tutorial Dojo](https://tutorialsdojo.com/) - ([Jon Bonso](https://www.linkedin.com/in/jonbonso/))
-
-5. [A Cloud Guru](https://acloud.guru/) - (multiple authors)
-
-6. [Digital Cloud Training](https://digitalcloud.training/) - ([Neal Davis](https://www.linkedin.com/in/nealkdavis/))
-
-7. [WhizLabs](https://www.whizlabs.com/) 
-
-8. [Exam Pro](https://www.exampro.co/) - ([Andrew Brown](https://www.linkedin.com/in/andrew-wc-brown/))
-
-9. [CBT Nuggets](https://www.cbtnuggets.com/certification-playlist/aws) - (Anthony Sequeria, [Bart Castle](https://www.linkedin.com/in/bartcastleit/), [Ben Finkel](https://www.linkedin.com/in/benjaminfinkel/))
-
-**Verify the course you are looking at is for the exam version you are going to take.**
-
-# AWS Certification Practice Exams (in no particular order)
-
-1. [Tutorial Dojo](https://tutorialsdojo.com/) - (Jon Bonso)
-
-2. [WhizLabs](https://www.whizlabs.com/)
-
-3. [Digital Cloud Training](https://digitalcloud.training/) - (Neal Davis)
-
-4. [LinuxAcademy](https://www.linuxacademy.com) - (multiple authors)
-
-5. [AWS Exam Readiness](https://www.aws.training/LearningLibrary?&search=exam%20readiness&tab=digital_courses) (free recap made by exams creators)
-
-6. [Review Prep](https://reviewnprep.com/quiz)
-
-7. [Quizlet](https://www.reddit.com/r/AWSCertifications/comments/gz6ie9/quizlets_aws_certification_practice_questions_by)
-
-8. [Exam Pro](https://www.exampro.co/) included with courses
-
-9. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
-
-# AWS Certification Cheat Sheets (in no particular order)
-
-1. [Tutorial Dojo](https://tutorialsdojo.com/) - (Jon Bonso) 
-
-2. [Digital Cloud Training](https://digitalcloud.training/) - (Neil Davis)
-
-3. [Curated list](https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc) of AWS resources for the certification 
-
-4. [AWS in Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
-
-5. [Exam Pro](https://www.exampro.co/) included with courses
-
-# AWS Whitepaper Help (in no particular order)
-
-1. AWS Ramp Up PDFs
-
-    1. [Business-Finance](https://cdn.discordapp.com/attachments/570278657323565066/695249732137648128/AWS_RampUp_Business-Finance.pdf)
-
-    2. [Architect](https://cdn.discordapp.com/attachments/570278657323565066/695249730397274152/AWSRampUp_Architect.pdf)
-
-    3. [Developer](https://cdn.discordapp.com/attachments/570278657323565066/695249728857833513/AWSRampUp_Developer.pdf)
-
-    4. [Operations](https://cdn.discordapp.com/attachments/570278657323565066/695249723191459900/AWSRampUp_Operations.pdf)
-
-2. Knowledge Hut [Whitepaper Recommendations](https://www.knowledgehut.com/blog/cloud-computing/recommended-aws-whitepapers)
-
-3. AWS Well Architected Whitepapers
-
-    5. [Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
-
-    6. [Operational Excellence](https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf)
-
-    7. [Security](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
-
-    8. [Reliability](https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)
-
-    9. [Performance](https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf)
-
-    10. [Cost](https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf)
-
-# Re:Invent presentations - AWS CSAP (in no particular order)
-
-1. AWS re:Invent 2015: [Deep Dive in AWS Direct Connect and VPNs](https://www.youtube.com/watch?v=SMvom9QjkPk)
-
-2. AWS re:Invent 2018: [Extending Data Centers to Cloud: Connectivity Options & Best](https://www.youtube.com/watch?v=LNYY3bMSiHM)
-
-3. AWS re:Invent 2017: [Identity Management for Your Users and Apps: A Deep Dive](https://www.youtube.com/watch?v=jLQjQpUYw6g)
-
-4. AWS re:Invent 2018: [Deep Dive on Amazon Aurora with MySQL Compatibility](https://www.youtube.com/watch?v=U42mC_iKSBg)
-
-5. AWS re:Invent 2018: [Deep Dive and Best Practices for Amazon Redshift](https://www.youtube.com/watch?v=TJDtQom7SAA)
-
-6. AWS re:Invent 2018: [A Serverless Journey: AWS Lambda Under the Hood](https://www.youtube.com/watch?v=QdzV04T_kec)
-
-7. AWS re:Invent 2017: [Operating Your Serverless API in Production at Scale](https://www.youtube.com/watch?v=tIfqpM3o55s)
-
-8. AWS re:Invent 2016: [Identifying Your Migration Options: the 6 Rs](https://www.youtube.com/watch?v=8U1ZZzqh8LQ) 
-
-9. AWS re:Invent 2015: [AWS Storage Gateway: Secure, Cost-Effective Backup & Archive](https://www.youtube.com/watch?v=VmjDfz-MIZE)
-
-10. AWS re:Invent 2016: [Enabling DevOps for an Enterprise with AWS Service Catalog](https://www.youtube.com/watch?v=J6XeDtCuERM)
-
-11. AWS re:Invent 2018: [Architecture Patterns for Multi-Region Active-Active Applications ](https://www.youtube.com/watch?v=2e29I3dA8o4vvvvv)
-
-12. AWS re:Invent 2015: [AWS CodeDeploy: Automating Your Software](https://www.youtube.com/watch?v=A4NSyUbAEkw)
-
-13. AWS re:Invent 2018: [DynamoDB Deep Dive: Advanced Design Patterns](https://www.youtube.com/watch?v=HaEPXoXVf2k)
-
-1. 2019 Re:Invent [Session & Video List](http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2019/2019.html)
-
-2. 2019 Re:Invent [Presentations](http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2019/2019_presentations.html)
-
-**Change 2019 to 2016, 2017, 2018 in both places in the URL for that year's session, video, and presentations. **
-
 # Thought Leadership Material
 
 This section covers things like customer success stories, case studies into customers running and optimizing on AWS, etc.
@@ -134,6 +18,7 @@ This section covers things like customer success stories, case studies into cust
 
 8. [The Westrum Organization Culture Model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) - This covers at high-level the signs of an organization's culture. The value here is identifying what organizations' culture best fits the job seeker.
 
+
 # Communities (in no particular order)
 
 1. Linux Academy Slack - [https://linuxacademy-community-slack.herokuapp.com/](https://linuxacademy-community-slack.herokuapp.com/)
@@ -149,6 +34,7 @@ This section covers things like customer success stories, case studies into cust
 6. DevOpsChatCo Slack - [https://devopschat.co/register](https://devopschat.co/register)
 
 7. AWS Community Discord - [https://discord.gg/JN9FMbm](https://discord.gg/JN9FMbm) 
+
 
 # What Do I Need For AWS Job?
 
@@ -192,6 +78,7 @@ You can find recruiters by doing fuzzy searches on keywords + location. Then fol
 
 [Where Do I Find Recruiters?](https://www.reddit.com/r/ITCareerQuestions/comments/f8bo3v/where_do_i_find_recruiters/)
 
+
 # How Much Should I Make At x Position?
 
 1. [Glassdoor](https://www.glassdoor.com/)
@@ -206,9 +93,6 @@ You can find recruiters by doing fuzzy searches on keywords + location. Then fol
 
 6. [IT Career Roadmap 2020 by Salary](https://i.lensdump.com/i/iHcJHP.png) - credits to [/u/SinecureLife](https://www.reddit.com/r/ITCareerQuestions/comments/dbjkdx/oc_common_it_career_paths_roadmap_visual_2020/)
 
-# What Certification Should I Get?
-
-1. [Your Future](https://www.youtube.com/watch?v=oxZa1oSGUps) - ([David Bombal](https://www.linkedin.com/in/davidbombal/))
 
 # Where can I pickup those non AWS skills? (in no particular order)
 
@@ -228,23 +112,8 @@ You can find recruiters by doing fuzzy searches on keywords + location. Then fol
 
 8. [DevOps Bootcamp](https://www.youtube.com/playlist?list=PLleOCN2eBn8IhLAckXL0BWomad5lrhB8j) (24 Video DevOps Bootcamp)
 
+
 # More Resources? (in no particular order)
-
-CCP Write Ups
-
-1. [AWS CCP - Thoughts, My Journey, My Opinion](https://www.reddit.com/r/AWSCertifications/comments/grlzah/aws_ccp_thoughts_my_journey_my_opinion/)
-
-CSAA Write Ups
-
-1. [AWS CSAA - Thoughts, My Journey, My Opinion, What’s Next](https://www.reddit.com/r/AWSCertifications/comments/grn03n/aws_csaa_thoughts_my_journey_my_opinion_what_next/)
-
-2. [Thoughts AWS Certified Associate Exam](https://intrinsecsecurity.com/thoughts-aws-certified-architect-associate-exam/)
-
-3. [Passing AWS Solutions Architect Exam in 2019](https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd)
-
-4. [So You Want To Learn AWS](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/)
-
-5. AWS CSAA [Bullet Point Study Guide](https://github.com/undergroundwires/AWS-in-bullet-points)
 
 Real World Examples
 
@@ -276,6 +145,7 @@ AWS Topics more:Explanation
 
 2. [AWS Stash](https://awsstash.com/) - filterable collection of AWS resources
 
+
 # Related AWS Github Repos (in no particular order)
 
 1. [Practical Guide](https://github.com/open-guides/og-aws) to AWS
@@ -288,13 +158,13 @@ AWS Topics more:Explanation
 
 5. A curated list of awesome [AWS Lambda Layers](https://github.com/mthenw/awesome-layers)
 
+
 # Recommended Reddit posts
 
 1. How To [Start a Career in Cloud Computing](https://www.reddit.com/r/ITCareerQuestions/comments/crn6qp/how_do_you_start_a_career_in_cloud_computing/ex7fg16/)
 
-2. Why You Should Avoid [Exams Dumps](https://www.reddit.com/r/AmazonWebServices/comments/gn0m97/why_you_should_avoid_aws_exam_dumps/)
+2. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
 
-3. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
 
 # I Still Have Questions
 
@@ -307,9 +177,3 @@ AWS Topics more:Explanation
 - debugging skills
 - how to design software
 - and more!
-
-<sup><sub>
-Versioning + Contributors<br>
-June 4th 2020 - First Draft by [Dreadstar22](https://www.reddit.com/user/Dreadstar22)<br>
-June 4th 2020 - First Revisions + Adds by [neilthecellist](https://www.reddit.com/user/neilthecellist/), [meshuga](https://github.com/meshuga), [Leandro Damascena](https://github.com/leandrodamascena), [Paul Casey](https://www.linkedin.com/in/heycasey/)
-    </sup></sub>
