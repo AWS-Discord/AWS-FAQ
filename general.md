@@ -145,6 +145,17 @@ AWS Topics more:Explanation
 
 2. [AWS Stash](https://awsstash.com/) - filterable collection of AWS resources
 
+# How to architect and choose the best solution?
+
+1. Figure out what the factors that are important to the organization are (it's rarely "cheapest possible" or "latest hype" option)
+
+    1. If it is an improvement to an existing product, think about the existing project stakeholders and how the change will affect them
+    
+    2. If it is a new project, think about how the product will be used in production
+
+2. Define and compare several approaches, follow [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
+
+3. You might want to follow [Well-Architected Framework](https://wa.aws.amazon.com/index.en.html) but take it with a grain of salt, use [YAGNI principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
 # Related AWS Github Repos (in no particular order)
 
