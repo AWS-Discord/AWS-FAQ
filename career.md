@@ -70,7 +70,7 @@ You can find recruiters by doing fuzzy searches on keywords + location. Then fol
     2. Being technically responsible for 2 company products
     3. Developing organization wide CI/CD pipelines utilizing Serverless Functions (Lambda), Ansible, AWS APIs to 5 development teams
 
-3. [Everybody lies](https://house.fandom.com/wiki/Everybody_lies), same as your competitors for a job; try to provide a disprovable information in the resume, it's easy to see if a person is not consistent
+3. [Everybody lies](https://house.fandom.com/wiki/Everybody_lies), same as your competitors for a job; try to provide demonstrable information in the resume, it's easy to see if a person is not consistent
 
 4. Forget cover letters if it's not a VP/SVP/Director level; if an organization asks for it at technical positions, it's a sign of a pathological organization (Google doesn't do cover letters at all)
 
