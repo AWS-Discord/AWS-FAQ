@@ -74,7 +74,7 @@ You can find recruiters by doing fuzzy searches on keywords + location. Then fol
 
 4. Forget cover letters if it's not a VP/SVP/Director level; if an organization asks for it at technical positions, it's a sign of a pathological organization (Google doesn't do cover letters at all)
 
-5. If a company tries to do a reference check, that is a signal of a pathological organization; don't bother getting references
+5. If a company tries to do a reference check, that can be a signal of a pathological organization; don't bother getting references but try to understand reasons for them
 
 6. KISS, for technical roles that's fine to have even txt with your achievements
 
