@@ -42,6 +42,24 @@ Real World Examples
 
 1. Amazon’s [This Is My Architecture](https://aws.amazon.com/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)
 
+# Where can I pickup those non AWS skills? (in no particular order)
+
+1. [KodeKloud](https://kodekloud.com/p/learning-path) (DevOps, Linux, Docker, Ansible, Puppet, Kubernetes, Chef, Docker Swarm, OpenShift)
+
+2. [instruqt](https://play.instruqt.com/public)  (DevOps, Docker, Kubernetes, Terraform, React, CI/CD, Git)
+
+3. [Codecademy](https://www.codecademy.com/) (Python, JavaScript, Java, SQL, Go, etc.)
+
+4. [Automate the Boring Stuff](https://automatetheboringstuff.com/) (Python)
+
+5. [Katacoda](https://www.katacoda.com/learn) (Docker, Kubernetes, Linux, Git, Languages, Terraform)
+
+6. [Linux Journey](https://linuxjourney.com/) [https://linuxjourney.com/](https://linuxjourney.com/) (Linux)
+
+7. [Over The Wire](https://overthewire.org/wargames/) (Security)
+
+8. [DevOps Bootcamp](https://www.youtube.com/playlist?list=PLleOCN2eBn8IhLAckXL0BWomad5lrhB8j) (24 Video DevOps Bootcamp)
+
 Success Stories
 
 1. [How I Went From 14hr to 70k with no experience!](https://www.reddit.com/r/ITCareerQuestions/comments/bhfegj/how_i_went_from_14hr_to_70k_with_no_experience/)
