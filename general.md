@@ -116,11 +116,13 @@ AWS Topics more:Explanation
 
 # Creating Disaster Recovery plans
 
-1. Collect initial requirements like SLA documents, ISMS documentation
+[Disaster Recovery](https://en.wikipedia.org/wiki/Disaster_recovery) planning is _hard_ and should be treated as a process, not one-time activity. Here's an example of steps that can help with DR planning:
+
+1. Collect initial requirements like SLA documents, ISMS documentation of your critical workloads
 
 2. Determine what is a disaster. It can be a natural disaster, failure of hardware or an attack and not only in cloud but also of your on-prem DC
 
-3. Determine [Recovery Time Objective (RTO)](https://www.ibm.com/services/business-continuity/rto) and your [Recovery Point Objective (RPO)](https://www.ibm.com/services/business-continuity/rpo) for your critical workloads
+3. Determine [Recovery Time Objective (RTO)](https://www.ibm.com/services/business-continuity/rto) and [Recovery Point Objective (RPO)](https://www.ibm.com/services/business-continuity/rpo) of your critical workloads
 
 4. Talk with business to balance costs vs risks of the DR plans
 
