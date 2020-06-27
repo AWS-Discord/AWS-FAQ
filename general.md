@@ -40,7 +40,9 @@ This section covers things like customer success stories, case studies into cust
 
 Real World Examples
 
-1. Amazon’s [This Is My Architecture](https://aws.amazon.com/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)
+1. Amazon’s [This Is My Architecture](https://aws.amazon.com/this-is-my-architecture/)
+
+2. [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
 # Where can I pickup those non AWS skills? (in no particular order)
 
