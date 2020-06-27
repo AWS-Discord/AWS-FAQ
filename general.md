@@ -118,7 +118,7 @@ AWS Topics more:Explanation
 
 # Creating Disaster Recovery plans
 
-[Disaster Recovery](https://en.wikipedia.org/wiki/Disaster_recovery) planning is _hard_ and should be treated as a process, not one-time activity. Here's an example of steps that can help with DR planning:
+[Disaster Recovery](https://en.wikipedia.org/wiki/Disaster_recovery) planning is _hard_ and should be treated as a process, not one-time activity. Here are some steps that can help with DR planning:
 
 1. Collect initial requirements like SLA documents, ISMS documentation of your critical workloads
 
