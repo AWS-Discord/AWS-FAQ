@@ -112,6 +112,29 @@ AWS Topics more:Explanation
 
 5. A curated list of awesome [AWS Lambda Layers](https://github.com/mthenw/awesome-layers)
 
+6. A curated list of awesome [Chaos Engineering resources](https://github.com/dastergon/awesome-chaos-engineering)
+
+# Creating Disaster Recovery plans
+
+1. Collect requirements like SLA documents
+
+2. Determine what is a disaster. It can be a natural disaster, failure of hardware, your on-prem DC or an attack
+
+3. Determine [recovery time objective (RTO)](https://www.ibm.com/services/business-continuity/rto) and your [recovery point objective (RPO)](https://www.ibm.com/services/business-continuity/rpo)
+
+4. Talk with business to balance costs vs risks in the DR plans
+
+5. Write plans and if possible, automate, chaos engineering can be here helpful
+
+6. If you have budget, you can look at  commercial tools like CloudEndure
+
+7. Useful materials:
+
+    1. [AWS re:Invent 2019: Backup-and-restore and disaster-recovery solutions with AWS (STG208)
+](https://www.youtube.com/watch?v=7gNXfo5HZN8)
+    2. [10 Tips for Developing an AWS Disaster Recovery Plan](https://medium.com/@eddies_47682/10-tips-for-developing-an-aws-disaster-recovery-plan-a708f899a442)
+
+8. Use chaos engineering for automation of testing platform resiliency
 
 # Recommended Reddit posts
 
