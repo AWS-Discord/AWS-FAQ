@@ -5,6 +5,7 @@ The repo pages contain useful materials on the following topics:
 1. [General](general.md)
 2. [Certification](certification.md)
 3. [Career](career.md)
+3. [Technical](technical.md)
 
 <sup><sub>
 Versioning + Contributors<br>
