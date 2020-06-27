@@ -116,25 +116,24 @@ AWS Topics more:Explanation
 
 # Creating Disaster Recovery plans
 
-1. Collect requirements like SLA documents
+1. Collect initial requirements like SLA documents, ISMS documentation
 
-2. Determine what is a disaster. It can be a natural disaster, failure of hardware, your on-prem DC or an attack
+2. Determine what is a disaster. It can be a natural disaster, failure of hardware or an attack and not only in cloud but also of your on-prem DC
 
-3. Determine [recovery time objective (RTO)](https://www.ibm.com/services/business-continuity/rto) and your [recovery point objective (RPO)](https://www.ibm.com/services/business-continuity/rpo)
+3. Determine [Recovery Time Objective (RTO)](https://www.ibm.com/services/business-continuity/rto) and your [Recovery Point Objective (RPO)](https://www.ibm.com/services/business-continuity/rpo) for your critical workloads
 
-4. Talk with business to balance costs vs risks in the DR plans
+4. Talk with business to balance costs vs risks of the DR plans
 
-5. Write plans and if possible, automate, chaos engineering can be here helpful
+5. If you have budget, you can look at  commercial tools like CloudEndure
 
-6. If you have budget, you can look at  commercial tools like CloudEndure
-
-7. Useful materials:
+6. Useful materials:
 
     1. [AWS re:Invent 2019: Backup-and-restore and disaster-recovery solutions with AWS (STG208)
 ](https://www.youtube.com/watch?v=7gNXfo5HZN8)
     2. [10 Tips for Developing an AWS Disaster Recovery Plan](https://medium.com/@eddies_47682/10-tips-for-developing-an-aws-disaster-recovery-plan-a708f899a442)
+    3. [WA REL 9: How do you plan for disaster recovery?](https://wa.aws.amazon.com/wat.question.REL_9.en.html)
 
-8. Use chaos engineering for automation of testing platform resiliency
+7. Use chaos engineering for automation of testing platform resiliency
 
 # Recommended Reddit posts
 
