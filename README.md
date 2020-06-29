@@ -7,8 +7,14 @@ The repo pages contain useful materials on the following topics:
 3. [Career](career.md)
 3. [Technical](technical.md)
 
-<sup><sub>
-Versioning + Contributors<br>
-June 4th 2020 - First Draft by [Dreadstar22](https://www.reddit.com/user/Dreadstar22) <br>
-June 4th 2020 - First Revisions + Adds by [neilthecellist](https://www.reddit.com/user/neilthecellist/), [meshuga](https://github.com/meshuga), [Leandro Damascena](https://github.com/leandrodamascena), [Paul Casey](https://www.linkedin.com/in/heycasey/)
-    </sup></sub>
+# Contributing
+
+If you have suggestions or interesting links to share with cloud community, specially AWS, we would love to have your contributions.
+
+# Main Contributors
+
+-  [Dreadstar22](https://www.reddit.com/user/Dreadstar22) - June 4th 2020 - First Draft
+-  [neilthecellist](https://www.reddit.com/user/neilthecellist/)
+-  [meshuga](https://github.com/meshuga)
+-  [Leandro Damascena](https://github.com/leandrodamascena)
+-  [Paul Casey](https://www.linkedin.com/in/heycasey/)
