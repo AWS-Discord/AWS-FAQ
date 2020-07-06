@@ -139,10 +139,32 @@ AWS Topics more:Explanation
 
 7. Use chaos engineering for automation of testing platform resiliency
 
+## DR and AWS services
+
+Although some services provide good scenarios for DR planning, some are making such plans complicated. When a system requires a DR plans, you must analyze used services and how they will support the plans.
+
+Examples of services that have good DR _stories_:
+1. DynamoDB - the service allows backups of all data (and moderately easy restoration) as well as global tables (replication within seconds)
+2. EC2 - Same instance types are available across multiple regions, EBS volumes can be backed up and restored
+3. Route 53/CloudFront - enable you to switch regions within seconds/minutes
+4. Kinesis - cross-region replication can be easily written
+
+Examples of services that provide bad DR _stories_:
+1. Cognito - service stores users within a region, authentication endpoints are region-bound, user backups with password hashes are not available
+2. QLDB - _[Amazon QLDB does not support a backup and restore feature](https://aws.amazon.com/qldb/faqs#Backup_and_Restore)_...
+
 # Recommended Reddit posts
 
 1. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
 
+# APN overview
+APN (Amazon Partner Network) distinguishes two types of AWS partners:
+1. [Consultancy partner](https://aws.amazon.com/partners/consulting/) - a professional services companies
+2. [Technology partner](https://aws.amazon.com/partners/technology/) - companies that provide products and solutions on AWS
+
+On top of the partner network program, there are [partner programs](https://aws.amazon.com/partners/programs/), with MSP being most one of the most beneficial one.
+
+Depending on level and amount invested money, AWS can provide their opportunities, reduce bill costs and give funds.
 
 # I Still Have Questions
 
