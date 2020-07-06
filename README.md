@@ -1,4 +1,7 @@
 # AWS FAQ
+
+[![Discord](https://img.shields.io/discord/423842546947457024.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/JAD53yM)
+
 This repo consists of a series of FAQs, mostly from [AWS Community Discord](https://discord.gg/JN9FMbm) on AWS and cloud related topics.
 
 The repo pages contain useful materials on the following topics:
