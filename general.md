@@ -159,8 +159,15 @@ Examples of services that provide bad DR _stories_:
 
 # APN Overview
 APN (Amazon Partner Network) distinguishes two main types of AWS Partners:
-1. [Consultancy Partners](https://aws.amazon.com/partners/consulting/) - professional services firms that help customers design, architect, build, migrate, and manage their workloads and applications on AWS. Examples: SADA Systems, Taos, Accenture, Deloitte, CloudReach.
-2. [Technology Partners](https://aws.amazon.com/partners/technology/) - firms that provide product-focused solutions on AWS. Examples: New Relic, AppDynamics, SignalFX, Splunk
+1. [Consultancy Partners](https://aws.amazon.com/partners/consulting/) - professional services firms that help customers design, architect, build, migrate, and manage their workloads and applications on AWS.
+
+APN Consulting Partners include system integrators, strategic consultancies, agencies, managed service providers, and value-added resellers.
+
+Examples: SADA Systems, Taos, Accenture, Deloitte, CloudReach.
+
+2. [Technology Partners](https://aws.amazon.com/partners/technology/) - APN Technology Partners provide hardware, connectivity services, or software solutions that are either hosted on, or integrated with, the AWS Cloud. Technology Partner products are often delivered as components to broader AWS customer solutions and can be delivered globally by Consulting Partners through AWS Marketplace, bundled solutions, or directly from APN Technology Partners.
+
+APN Technology Partners include original equipment manufacturers (OEMs), semiconductor manufacturers, network carriers, SaaS Providers, and independent software vendors (ISVs). Examples: New Relic, F5, Cisco, Hashicorp
 
 On top of the partner network program, there are [partner programs](https://aws.amazon.com/partners/programs/), with MSP being one of the most beneficial ones. Others include, but are not limited to: DevOps Competency, Solution Provider Competency, Migration Partner Competency.
 
