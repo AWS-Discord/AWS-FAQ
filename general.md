@@ -157,14 +157,14 @@ Examples of services that provide bad DR _stories_:
 
 1. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
 
-# APN overview
-APN (Amazon Partner Network) distinguishes two types of AWS partners:
-1. [Consultancy partner](https://aws.amazon.com/partners/consulting/) - a professional services companies
-2. [Technology partner](https://aws.amazon.com/partners/technology/) - companies that provide products and solutions on AWS
+# APN Overview
+APN (Amazon Partner Network) distinguishes two main types of AWS Partners:
+1. [Consultancy Partners](https://aws.amazon.com/partners/consulting/) - professional services firms that help customers design, architect, build, migrate, and manage their workloads and applications on AWS. Examples: SADA Systems, Taos, Accenture, Deloitte, CloudReach.
+2. [Technology Partners](https://aws.amazon.com/partners/technology/) - firms that provide product-focused solutions on AWS. Examples: New Relic, AppDynamics, SignalFX, Splunk
 
-On top of the partner network program, there are [partner programs](https://aws.amazon.com/partners/programs/), with MSP being most one of the most beneficial one.
+On top of the partner network program, there are [partner programs](https://aws.amazon.com/partners/programs/), with MSP being one of the most beneficial ones. Others include, but are not limited to: DevOps Competency, Solution Provider Competency, Migration Partner Competency.
 
-Depending on level and amount invested money, AWS can provide their opportunities, reduce bill costs and give funds.
+Via a combination of both Competency and Partner level, AWS provides firms within the APN financial kickbacks, such as migration subsidies and resell discounts to clients of AWS that go through an APN firm.
 
 # I Still Have Questions
 
