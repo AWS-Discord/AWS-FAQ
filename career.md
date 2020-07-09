@@ -5,6 +5,19 @@ There are three main groups of jobs related with AWS:
 2. Software/Cloud Engineer
 3. Software/Cloud Architect
 
+Keep in mind, practice and experience are often more important than certificates:
+[Why An AWS Certification Will Not Get You An AWS Job!](https://www.reddit.com/r/AmazonWebServices/comments/ga0tqc/why_an_aws_certification_will_not_get_you_an_aws/)
+
+No two jobs will be the same. Find out the AWS position you want and then go research it on Indeed, LinkedIn, ZipRecruiter, CareerBuilder, GlassDoor, Monster. What appears on "most" of those job reqs is what you need to learn/know.
+
+[Create better searches on those job sites!](https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/learning-center/tip-sheets/en-us/UseBooleanLogic.pdf)
+
+You can find recruiters by doing fuzzy searches on keywords + location. Then follow or message said recruiter for future opportunities. From there you can also find the commonly used "recruiter hashtags" that are relevant to your area. Recruiters tend to use common hashtags for job postings (sometimes location dependent -- #awsToronto #awsSeattle)
+
+[Where Do I Find Recruiters?](https://www.reddit.com/r/ITCareerQuestions/comments/f8bo3v/where_do_i_find_recruiters/)
+
+
+## DevOps Engineer role
 While not specific to AWS, the [DevOps Roadmap](https://roadmap.sh/devops) is incredibly useful in painting some context for the general learning of AWS concepts like EC2 and logs management and CI/CD tooling.
 
 That being said, for DevOps position, here is a very general idea to get you started:
@@ -15,6 +28,8 @@ That being said, for DevOps position, here is a very general idea to get you sta
 5. At least 1 Windows or Linux, perf both</li>
 6. An understanding of DevOps and Agile environments</li>
 
+
+## Software/Cloud Engineer role
 Software/Cloud Engineer is responsible for a business logic that is about to be implemented ([more in the definition](https://www.comptia.org/blog/your-next-move-cloud-engineer)). Since in such role, work on the actual code is being done, automation skills are not so important but a practical knowledge of tools that help you implement logic is necessary. That include:
 
 1. Ability to use: EC2, ECS, EKS, Lambda for development work
@@ -27,18 +42,11 @@ Software/Cloud Engineer is responsible for a business logic that is about to be 
 5. Big Data platforms like AWS EMR, Glue, Athena
 6. Knowledge of CloudFront to optimize websites (if doing web development)
 
-When searching for AWS jobs, there's a lot of offers for Cloud/Solution/Software Architect positions. In general, an architect at an IT project is _a software developer expert who makes high-level design choices and tries to enforce technical standards, including software coding standards, tools, and platforms._ [Software architect](https://en.wikipedia.org/wiki/Software_architect). Such role encompasses technical expert skills and soft skills, since communication across team members, representatives and across enterprise can be necessary. Usually an architect is a  distinguished developer with years of work experience across many projects. No single path leads to this role but [this paper](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/fose/finalgarlan.pdf) tries to sketch a roadmap.
+When searching for AWS jobs, there's a lot of offers for Cloud/Solution/Software Architect positions. In general, an architect at an IT project is _a software developer expert who makes high-level design choices and tries to enforce technical standards, including software coding standards, tools, and platforms._
 
-Keep in mind, practice and experience are often more important than certificates:
-[Why An AWS Certification Will Not Get You An AWS Job!](https://www.reddit.com/r/AmazonWebServices/comments/ga0tqc/why_an_aws_certification_will_not_get_you_an_aws/)
-
-No two jobs will be the same. Find out the AWS position you want and then go research it on Indeed, LinkedIn, ZipRecruiter, CareerBuilder, GlassDoor, Monster. What appears on "most" of those job reqs is what you need to learn/know.
-
-[Create better searches on those job sites!](https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/learning-center/tip-sheets/en-us/UseBooleanLogic.pdf)
-
-You can find recruiters by doing fuzzy searches on keywords + location. Then follow or message said recruiter for future opportunities. From there you can also find the commonly used "recruiter hashtags" that are relevant to your area. Recruiters tend to use common hashtags for job postings (sometimes location dependent -- #awsToronto #awsSeattle)
-
-[Where Do I Find Recruiters?](https://www.reddit.com/r/ITCareerQuestions/comments/f8bo3v/where_do_i_find_recruiters/)
+ 
+## Software/Cloud architect role
+[Software architect](https://en.wikipedia.org/wiki/Software_architect) role encompasses technical expert skills and soft skills, since communication across team members, representatives and across enterprise can be necessary. Usually an architect is a  distinguished developer with years of work experience across many projects. No single path leads to this role but [this paper](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/fose/finalgarlan.pdf) tries to sketch a roadmap.
 
 
 # How Much Should I Make At x Position?
@@ -77,18 +85,6 @@ You can find recruiters by doing fuzzy searches on keywords + location. Then fol
 5. If a company tries to do a reference check, that can be a signal of a pathological organization; don't bother getting references but try to understand reasons for them once asked
 
 6. KISS, for technical roles that's fine to have even txt with your achievements
-
-# How to architect and choose the best solution?
-
-1. Figure out what the factors that are important to the organization are (it's rarely "cheapest possible" or "latest hype" option)
-
-    1. If it is an improvement to an existing product, think about the existing project stakeholders and how the change will affect them
-    
-    2. If it is a new project, think about how the product will be used in production
-
-2. Define and compare several approaches, follow [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
-
-3. You might want to follow [Well-Architected Framework](https://wa.aws.amazon.com/index.en.html) but take it with a grain of salt, use [YAGNI principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
 
 # Recommended Reddit posts

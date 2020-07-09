@@ -37,12 +37,14 @@ This section covers things like customer success stories, case studies into cust
 
 
 # More Resources? (in no particular order)
-
 Real World Examples
 
 1. Amazon’s [This Is My Architecture](https://aws.amazon.com/this-is-my-architecture/)
 
 2. [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
+
+3. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
+
 
 # Where can I pickup those non AWS skills? (in no particular order)
 
@@ -90,18 +92,6 @@ AWS Topics more:Explanation
 
 2. [AWS Stash](https://awsstash.com/) - filterable collection of AWS resources
 
-# How to architect and choose the best solution?
-
-1. Figure out what the factors that are important to the organization are (it's rarely "cheapest possible" or "latest hype" option)
-
-    1. If it is an improvement to an existing product, think about the existing project stakeholders and how the change will affect them
-    
-    2. If it is a new project, think about how the product will be used in production
-
-2. Define and compare several approaches, follow [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
-
-3. You might want to follow [Well-Architected Framework](https://wa.aws.amazon.com/index.en.html) but take it with a grain of salt, use [YAGNI principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
-
 # Related AWS Github Repos (in no particular order)
 
 1. [Practical Guide](https://github.com/open-guides/og-aws) to AWS
@@ -116,33 +106,16 @@ AWS Topics more:Explanation
 
 6. A curated list of awesome [Chaos Engineering resources](https://github.com/dastergon/awesome-chaos-engineering)
 
-# Creating Disaster Recovery plans
 
-[Disaster Recovery](https://en.wikipedia.org/wiki/Disaster_recovery) planning is _hard_ and should be treated as a process, not one-time activity. Here are some steps that can help with DR planning:
+# APN Overview
+APN (Amazon Partner Network) distinguishes two main types of AWS Partners:
+1. [Consultancy Partners](https://aws.amazon.com/partners/consulting/) - professional services firms that help customers design, architect, build, migrate, and manage their workloads and applications on AWS. APN Consulting Partners include system integrators, strategic consultancies, agencies, managed service providers, and value-added resellers. Examples: SADA Systems, Taos, Accenture, Deloitte, CloudReach.
 
-1. Collect initial requirements like SLA documents, ISMS documentation of your critical workloads
+2. [Technology Partners](https://aws.amazon.com/partners/technology/) - APN Technology Partners provide hardware, connectivity services, or software solutions that are either hosted on, or integrated with, the AWS Cloud. Technology Partner products are often delivered as components to broader AWS customer solutions and can be delivered globally by Consulting Partners through AWS Marketplace, bundled solutions, or directly from APN Technology Partners. APN Technology Partners include original equipment manufacturers (OEMs), semiconductor manufacturers, network carriers, SaaS Providers, and independent software vendors (ISVs). Examples: New Relic, F5, Cisco, Hashicorp
 
-2. Determine what is a disaster. It can be a natural disaster, failure of hardware or an attack and not only in cloud but also of your on-prem DC
+On top of the partner network program, there are [partner programs](https://aws.amazon.com/partners/programs/), with MSP being one of the most beneficial ones. Others include, but are not limited to: DevOps Competency, Solution Provider Competency, Migration Partner Competency.
 
-3. Determine [Recovery Time Objective (RTO)](https://www.ibm.com/services/business-continuity/rto) and [Recovery Point Objective (RPO)](https://www.ibm.com/services/business-continuity/rpo) of your critical workloads
-
-4. Talk with business to balance costs vs risks of the DR plans
-
-5. If you have budget, you can look at  commercial tools like CloudEndure
-
-6. Useful materials:
-
-    1. [AWS re:Invent 2019: Backup-and-restore and disaster-recovery solutions with AWS (STG208)
-](https://www.youtube.com/watch?v=7gNXfo5HZN8)
-    2. [10 Tips for Developing an AWS Disaster Recovery Plan](https://medium.com/@eddies_47682/10-tips-for-developing-an-aws-disaster-recovery-plan-a708f899a442)
-    3. [WA REL 9: How do you plan for disaster recovery?](https://wa.aws.amazon.com/wat.question.REL_9.en.html)
-
-7. Use chaos engineering for automation of testing platform resiliency
-
-# Recommended Reddit posts
-
-1. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
-
+Via a combination of both Competency and Partner level, AWS provides firms within the APN financial kickbacks, such as migration subsidies and resell discounts to clients of AWS that go through an APN firm.
 
 # I Still Have Questions
 

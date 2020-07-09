@@ -1,5 +1,9 @@
 # AWS FAQ
-This repo consists of a series of FAQs, mostly from [AWS Community Discord](https://discord.gg/JN9FMbm) on AWS and cloud related topics.
+
+[![Discord](https://img.shields.io/discord/423842546947457024.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/JAD53yM)
+[![Hits-of-Code](https://sloc.xyz/github/dreadstar22/aws-faq)](https://github.com/Dreadstar22/AWS-FAQ)
+
+This repo consists of a series of FAQs, mostly from [AWS Community Discord](https://discord.gg/JN9FMbm) on AWS and cloud related topics. Useful for people who start journey with AWS cloud to get an information on where to start, cloud professionals to find help in their tasks and AWS employees that want to improve AWS ecosystem.
 
 The repo pages contain useful materials on the following topics:
 1. [General](general.md)
