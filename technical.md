@@ -97,7 +97,9 @@ AWS maintains SDK for many programming languages:
 - Ruby 
     - AWS SDK for [Ruby](https://aws.amazon.com/sdk-for-ruby)
 
-# Serverless Framework
+# Serverless
+
+## Serverless Framework
 
 There are some frameworks to help Serverless applications deploys:
 
@@ -109,3 +111,20 @@ There are some frameworks to help Serverless applications deploys:
 - Sparta for [Go](http://gosparta.io/)
 - Bref for [PHP](https://bref.sh/)
 - [Serverless](https://www.serverless.com/) Framework
+
+## Useful Serverless links
+
+Serverless world is growing and there are many interesting articles and repositories:
+
+- Serverless [Data Pipeline](https://anishdalal.me/aws/2020/06/26/serverless-data-pipeline.html)
+- Serverless [Reference Architecture](https://www.jeremydaly.com/serverless-reference-architectures/)
+- [Overcoming](https://talkingserverless.com/2020/07/05/overcoming-serverless-limitations/) Serverless limitations
+- The Stanford [Builder](https://github.com/StanfordSNR/gg) using AWS Lambda - Amazing project
+- AWS Lamba [abuse](https://luminousmen.com/post/aws-lambda-abuse)
+- Load testing a web application’s [serverless backend](https://aws.amazon.com/blogs/compute/load-testing-a-web-applications-serverless-backend/)
+- AWS Lambda [powertools](https://github.com/awslabs/aws-lambda-powertools-python)
+- Building [COBOL](https://github.com/BluAge/ServerlessCOBOLforAWS) applications on Lambda
+- [Complete Guide to Lambda Triggers](https://dashbird.io/blog/complete-guide-lambda-triggers-design-patterns-part-1/) and Design Patterns (Part 1)
+- [Managing backend requests](https://aws.amazon.com/blogs/compute/managing-backend-requests-and-frontend-notifications-in-serverless-web-apps/) and frontend notifications in serverless web apps
+- [AWS Lambda offline development](https://www.vittorionardone.it/en/2020/05/12/aws-lambda-offline-development-with-docker/) with Docker
+- Serverless: a backend thing that gives [superpowers to frontend developers](https://dev.to/aws-heroes/serverless-a-backend-thing-that-gives-superpowers-to-frontend-developers-163c)
