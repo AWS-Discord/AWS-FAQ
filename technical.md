@@ -99,7 +99,7 @@ AWS maintains SDK for many programming languages:
 
 # Serverless
 
-## Serverless Framework
+## Serverless Frameworks
 
 There are some frameworks to help Serverless applications deploys:
 
