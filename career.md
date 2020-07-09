@@ -45,8 +45,8 @@ Software/Cloud Engineer is responsible for a business logic that is about to be 
 When searching for AWS jobs, there's a lot of offers for Cloud/Solution/Software Architect positions. In general, an architect at an IT project is _a software developer expert who makes high-level design choices and tries to enforce technical standards, including software coding standards, tools, and platforms._
 
  
- ## Software/Cloud architect role
- [Software architect](https://en.wikipedia.org/wiki/Software_architect) role encompasses technical expert skills and soft skills, since communication across team members, representatives and across enterprise can be necessary. Usually an architect is a  distinguished developer with years of work experience across many projects. No single path leads to this role but [this paper](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/fose/finalgarlan.pdf) tries to sketch a roadmap.
+## Software/Cloud architect role
+[Software architect](https://en.wikipedia.org/wiki/Software_architect) role encompasses technical expert skills and soft skills, since communication across team members, representatives and across enterprise can be necessary. Usually an architect is a  distinguished developer with years of work experience across many projects. No single path leads to this role but [this paper](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/fose/finalgarlan.pdf) tries to sketch a roadmap.
 
 
 # How Much Should I Make At x Position?
