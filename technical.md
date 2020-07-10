@@ -1,3 +1,17 @@
+# Thought Leadership Material
+
+This section covers things like customer success stories, case studies into customers running and optimizing on AWS, etc.
+
+1. AWS re:Invent 2018: [Ethan Kaplan from Fender Shares How AWS Helps Brings Music to More Customers](https://www.youtube.com/watch?v=F61GtueelP4)
+2. AWS re:Invent 2018: [Dean Del Vecchio from Guardian Life Shares the Company’s Digital Transformation](https://www.youtube.com/watch?v=4FpL0jZBjfE)
+3. Researchers Are Using [Machine Learning to Screen for Autism in Children](https://www.youtube.com/watch?v=YQpTlnWYAqE)
+4. [Finding Missing Children with Machine Learning](https://www.youtube.com/watch?v=HSac9lXKu5U)
+5. Increasing Access to [Education with Computer Games](https://www.youtube.com/watch?v=X6CAO2otdlE)
+6. AWS re:Invent 2019: [Amplifying CI/CD](https://www.youtube.com/watch?v=HfEl9GXZC0s) helped Wag! reduce release process by 600%
+7. [Automating Your Documentation](https://www.youtube.com/watch?v=Gma8WAP-XPk) using AWS and Serverless
+8. [The Westrum Organization Culture Model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) - This covers at high-level the signs of an organization's culture. The value here is identifying what organizations' culture best fits the job seeker.
+
+
 # Infrastructure as a Code (IaC)
 
 There are some tools to automate your infrastructure:

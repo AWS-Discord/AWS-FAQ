@@ -52,15 +52,10 @@ When searching for AWS jobs, there's a lot of offers for Cloud/Solution/Software
 # How Much Should I Make At x Position?
 
 1. [Glassdoor](https://www.glassdoor.com/)
-
 2. [LinkedIn Salary](https://www.linkedin.com/salary/)
-
 3. [Payscale](https://www.payscale.com/)
-
 4. CompTIA [IT Career Path](https://www.comptia.org/content/it-careers-path-roadmap)
-
 5. CompTIA [Tech Town Index 2019](https://www.comptia.org/content/research/best-tech-cities-it-jobs)
-
 6. [IT Career Roadmap 2020 by Salary](https://i.lensdump.com/i/iHcJHP.png) - credits to [/u/SinecureLife](https://www.reddit.com/r/ITCareerQuestions/comments/dbjkdx/oc_common_it_career_paths_roadmap_visual_2020/)
 
 
@@ -72,25 +67,36 @@ When searching for AWS jobs, there's a lot of offers for Cloud/Solution/Software
     3. Your experience, only relevant one for your position
     4. Your certificates, school (if relevant)
     5. GitHub profile if active
-
 2. When listing experience, be concrete and precise; show what impact you had to the organization and provide measurable values e.g.
     1. Managing 5 AWS accounts in a process of company wide cloud migration process for 10 development teams
     2. Being technically responsible for 2 company products
     3. Developing organization wide CI/CD pipelines utilizing Serverless Functions (Lambda), Ansible, AWS APIs to 5 development teams
-
 3. [Everybody lies](https://house.fandom.com/wiki/Everybody_lies), same as your competitors for a job; try to provide demonstrable information in the resume, it's easy to see if a person is not consistent
-
 4. Forget cover letters if it's not a VP/SVP/Director level; if an organization asks for it at technical positions, it's a sign of a pathological organization (Google doesn't do cover letters at all)
-
 5. If a company tries to do a reference check, that can be a signal of a pathological organization; don't bother getting references but try to understand reasons for them once asked
-
 6. KISS, for technical roles that's fine to have even txt with your achievements
 
 
-# Recommended Reddit posts
+# Where can I pickup those non AWS skills?
 
-1. How To [Start a Career in Cloud Computing](https://www.reddit.com/r/ITCareerQuestions/comments/crn6qp/how_do_you_start_a_career_in_cloud_computing/ex7fg16/)
+1. [KodeKloud](https://kodekloud.com/p/learning-path) (DevOps, Linux, Docker, Ansible, Puppet, Kubernetes, Chef, Docker Swarm, OpenShift)
+2. [instruqt](https://play.instruqt.com/public)  (DevOps, Docker, Kubernetes, Terraform, React, CI/CD, Git)
+3. [Codecademy](https://www.codecademy.com/) (Python, JavaScript, Java, SQL, Go, etc.)
+4. [Automate the Boring Stuff](https://automatetheboringstuff.com/) (Python)
+5. [Katacoda](https://www.katacoda.com/learn) (Docker, Kubernetes, Linux, Git, Languages, Terraform)
+6. [Linux Journey](https://linuxjourney.com/) [https://linuxjourney.com/](https://linuxjourney.com/) (Linux)
+7. [Over The Wire](https://overthewire.org/wargames/) (Security)
+8. [DevOps Bootcamp](https://www.youtube.com/playlist?list=PLleOCN2eBn8IhLAckXL0BWomad5lrhB8j) (24 Video DevOps Bootcamp)
 
-2. [How I Went From 14hr to 70k with no experience!](https://www.reddit.com/r/ITCareerQuestions/comments/bhfegj/how_i_went_from_14hr_to_70k_with_no_experience/)
+Success Stories
+1. [How I Went From 14hr to 70k with no experience!](https://www.reddit.com/r/ITCareerQuestions/comments/bhfegj/how_i_went_from_14hr_to_70k_with_no_experience/)
+2. [Tossing My Coin That Hat Too I'm A College Dropout](https://www.reddit.com/r/ITCareerQuestions/comments/gc9a1v/tossing_my_coin_that_hat_too_im_a_college_dropout/)
+3. [Guide to Passing All 3 AWS Associate Level Certifications](https://medium.com/@annamcabee/guide-to-passing-all-3-aws-associate-level-certifications-73516bcef6e1)
+4. [How to Pass Three AWS Associate Certifications In One Month](https://www.contino.io/insights/how-to-pass-three-aws-associate-certifications-in-one-month)
+5. How To [Start a Career in Cloud Computing](https://www.reddit.com/r/ITCareerQuestions/comments/crn6qp/how_do_you_start_a_career_in_cloud_computing/ex7fg16/)
 
-3. [Tossing My Coin That Hat Too I'm A College Dropout](https://www.reddit.com/r/ITCareerQuestions/comments/gc9a1v/tossing_my_coin_that_hat_too_im_a_college_dropout/)
+Other
+1. What Is [SRE](https://landing.google.com/sre/sre-book/chapters/introduction/)?
+2. What is [DevOps](https://resources.collab.net/devops-101/what-is-devops)?
+3. What is [Agile](https://www.cprime.com/resources/what-is-agile-what-is-scrum/)?
+4. What is [CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd)?
