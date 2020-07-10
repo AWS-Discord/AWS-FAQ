@@ -131,3 +131,4 @@ Serverless world is growing and there are many interesting articles and reposito
 - [Managing backend requests](https://aws.amazon.com/blogs/compute/managing-backend-requests-and-frontend-notifications-in-serverless-web-apps/) and frontend notifications in serverless web apps
 - [AWS Lambda offline development](https://www.vittorionardone.it/en/2020/05/12/aws-lambda-offline-development-with-docker/) with Docker
 - Serverless: a backend thing that gives [superpowers to frontend developers](https://dev.to/aws-heroes/serverless-a-backend-thing-that-gives-superpowers-to-frontend-developers-163c)
+- [CDK Patterns](https://cdkpatterns.com/)
