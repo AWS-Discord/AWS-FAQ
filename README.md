@@ -24,3 +24,4 @@ If you have suggestions or interesting links to share with cloud community, spec
 -  [meshuga](https://github.com/meshuga)
 -  [Leandro Damascena](https://github.com/leandrodamascena)
 -  [Paul Casey](https://www.linkedin.com/in/heycasey/)
+-  [Jeevan Dongre](https://www.linkedin.com/in/jeevandongre/) - Serverless section contributor
