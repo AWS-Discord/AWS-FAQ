@@ -27,6 +27,9 @@ On top of the partner network program, there are [partner programs](https://aws.
 
 Via a combination of both Competency and Partner level, AWS provides firms within the APN financial kickbacks, such as migration subsidies and resell discounts to clients of AWS that go through an APN firm.
 
+# What can I get for free on AWS?
+List of free AWS products and services, including first 12 months period, is available in [AWS Free Tier
+](https://aws.amazon.com/free#Free_Tier_details).
 
 # More Resources?
 AWS Topics more:Explanation
