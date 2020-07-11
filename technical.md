@@ -30,6 +30,14 @@ There are some tools to automate your infrastructure:
 2. Define and compare several approaches, follow [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
 3. You might want to follow [Well-Architected Framework](https://wa.aws.amazon.com/index.en.html) but take it with a grain of salt, use [YAGNI principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
+## Real World Examples
+1. Amazon’s [This Is My Architecture](https://aws.amazon.com/this-is-my-architecture/)
+2. [AWS Solutions Implementations](https://aws.amazon.com/solutions/implementations)
+3. [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
+4. [AWS Cloud Adoption Framework](https://aws.amazon.com/professional-services/CAF/)
+5. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
+6. AWS services in [plain English](https://expeditedsecurity.com/aws-in-plain-english/)
+
 
 # Creating Disaster Recovery plans
 [Disaster Recovery](https://en.wikipedia.org/wiki/Disaster_recovery) planning is _hard_ and should be treated as a process, not one-time activity. Here are some steps that can help with DR planning:

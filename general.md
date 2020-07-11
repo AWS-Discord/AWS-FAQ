@@ -29,15 +29,6 @@ Via a combination of both Competency and Partner level, AWS provides firms withi
 
 
 # More Resources?
-Real World Examples
-
-1. Amazon’s [This Is My Architecture](https://aws.amazon.com/this-is-my-architecture/)
-2. [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
-3. [AWS Cloud Adoption Framework](https://aws.amazon.com/professional-services/CAF/)
-4. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
-5. AWS services in [plain English](https://expeditedsecurity.com/aws-in-plain-english/)
-
-
 AWS Topics more:Explanation
 
 1. [Transit Gateway](https://medium.com/@heycasey/creating-a-transit-gateway-6e3df814a07a) - ([Paul Casey](https://www.linkedin.com/in/heycasey/))
