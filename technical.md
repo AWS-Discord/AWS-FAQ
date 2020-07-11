@@ -113,9 +113,9 @@ AWS maintains SDK for many programming languages:
 
 
 # How to use cloud in highly regulated industries?
-Very often organizations that operate on regulated data like health care information or financial data might be very reluctant to move to a public cloud. They are often biased with thinking a public cloud is less secure than an in-house Data Center, cloud will not reduce costs of development and operations and in overall, it won't enable the organization to have more products in their portfolio.
+Very often organizations that operate on regulated data like health care information or financial data might be very reluctant to move to a public cloud. They can be biased with thinking a public cloud is less secure than an in-house Data Center, cloud will not reduce costs of development and operations and in overall, it won't enable the organization to have more products in their portfolio.
 
-Public cloud provides services to a wide range of customers and provide solutions for companies that focus on preventive controls. The cloud helps  to drive culture of innovation, provides the widest set of tools for automation and in overall reduces costs of the technology teams.
+Public cloud provides services to a wide range of customers and provides solutions for companies that focus on preventive controls. The cloud helps  to drive culture of innovation, comes with the widest set of tools for automation and in overall reduces costs of the technology teams.
 
 Useful resources:
 - [AWS re:Invent 2019: [REPEAT 2] The fundamentals of AWS cloud security (SEC205-R2)](https://www.youtube.com/watch?v=QMBkq6MrT2w)
