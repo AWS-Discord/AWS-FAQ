@@ -38,6 +38,11 @@ There are some tools to automate your infrastructure:
 5. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
 6. AWS services in [plain English](https://expeditedsecurity.com/aws-in-plain-english/)
 
+## Diagramming tools
+1. [diagrams.net](https://www.diagrams.net/)
+2. [Lucidchart](https://www.lucidchart.com/)
+3. [Cloudcraft](https://cloudcraft.co/)
+3. [mingrammer/diagrams](https://diagrams.mingrammer.com/)
 
 # Creating Disaster Recovery plans
 [Disaster Recovery](https://en.wikipedia.org/wiki/Disaster_recovery) planning is _hard_ and should be treated as a process, not one-time activity. Here are some steps that can help with DR planning:
@@ -56,7 +61,6 @@ There are some tools to automate your infrastructure:
 7. Use chaos engineering for automation of testing platform resiliency
 
 ## DR and AWS services
-
 Although some services provide good scenarios for DR planning, some are making such plans complicated. When a system requires a DR plans, you must analyze used services and how they will support the plans.
 
 Examples of services that have good DR _stories_:
@@ -66,7 +70,7 @@ Examples of services that have good DR _stories_:
 4. Kinesis - cross-region replication can be easily written
 
 Examples of services that provide bad DR _stories_:
-1. Cognito - Service stores users within a region, authentication endpoints are region-bound, user backups with password hashes are not available
+1. Cognito - Service stores users within a region, authentication endpoints are region-bound, [user replication](https://forums.aws.amazon.com/message.jspa?messageID=916282) or backups with password hashes are not available
 2. QLDB - _[Amazon QLDB does not support a backup and restore feature](https://aws.amazon.com/qldb/faqs#Backup_and_Restore)_...
 
 
