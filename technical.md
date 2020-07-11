@@ -70,7 +70,7 @@ Examples of services that have good DR _stories_:
 4. Kinesis - cross-region replication can be easily written
 
 Examples of services that provide bad DR _stories_:
-1. Cognito - Service stores users within a region, authentication endpoints are region-bound, [user replication](https://forums.aws.amazon.com/message.jspa?messageID=916282) or backups with password hashes are not available
+1. Cognito - Service stores users within a region, authentication endpoints are region-bound, [user replication](https://forums.aws.amazon.com/message.jspa?messageID=916282) or backups [with password hashes](https://github.com/awslabs/multi-region-application-architecture#layers-overview) are not available
 2. QLDB - _[Amazon QLDB does not support a backup and restore feature](https://aws.amazon.com/qldb/faqs#Backup_and_Restore)_...
 
 
