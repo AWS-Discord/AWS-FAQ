@@ -37,6 +37,7 @@ There are some tools to automate your infrastructure:
 4. [AWS Cloud Adoption Framework](https://aws.amazon.com/professional-services/CAF/)
 5. Take Care [About Costs](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) 
 6. AWS services in [plain English](https://expeditedsecurity.com/aws-in-plain-english/)
+7. [AWS Well-Architected Lenses](https://aws.amazon.com/architecture/well-architected#AWS_Well-Architected_Lenses)
 
 ## Diagramming tools
 1. [diagrams.net](https://www.diagrams.net/)
@@ -123,6 +124,7 @@ Useful resources:
 ](https://aws.amazon.com/blogs/database/best-practices-for-securing-sensitive-data-in-aws-data-stores/)
 - [AWS re:Invent 2018: Architecting for Healthcare Compliance on AWS (HLC301-i)](https://www.youtube.com/watch?v=wNB5gu7klUo)
 - [AWS re:Invent 2019: National Australia Bank: Automating governance in Financial Services (SEC352)](https://www.youtube.com/watch?v=ll50dAiKPoI)
+- [Financial Services Industry Lens – AWS Well-Architected](https://docs.aws.amazon.com/wellarchitected/latest/financial-services-industry-lens/welcome.html)
 
 
 # Serverless
