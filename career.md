@@ -76,6 +76,9 @@ When searching for AWS jobs, there's a lot of offers for Cloud/Solution/Software
 5. If a company tries to do a reference check, that can be a signal of a pathological organization; don't bother getting references but try to understand reasons for them once asked
 6. KISS, for technical roles that's fine to have even txt with your achievements
 
+## More resources
+
+1. [The cloud resume challenge - for ones starting the career](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/)
 
 # Where can I pickup those non AWS skills?
 
