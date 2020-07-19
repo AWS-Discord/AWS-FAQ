@@ -1,17 +1,3 @@
-# Thought Leadership Material
-
-This section covers things like customer success stories, case studies into customers running and optimizing on AWS, etc.
-
-1. AWS re:Invent 2018: [Ethan Kaplan from Fender Shares How AWS Helps Brings Music to More Customers](https://www.youtube.com/watch?v=F61GtueelP4)
-2. AWS re:Invent 2018: [Dean Del Vecchio from Guardian Life Shares the Company’s Digital Transformation](https://www.youtube.com/watch?v=4FpL0jZBjfE)
-3. Researchers Are Using [Machine Learning to Screen for Autism in Children](https://www.youtube.com/watch?v=YQpTlnWYAqE)
-4. [Finding Missing Children with Machine Learning](https://www.youtube.com/watch?v=HSac9lXKu5U)
-5. Increasing Access to [Education with Computer Games](https://www.youtube.com/watch?v=X6CAO2otdlE)
-6. AWS re:Invent 2019: [Amplifying CI/CD](https://www.youtube.com/watch?v=HfEl9GXZC0s) helped Wag! reduce release process by 600%
-7. [Automating Your Documentation](https://www.youtube.com/watch?v=Gma8WAP-XPk) using AWS and Serverless
-8. [The Westrum Organization Culture Model](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) - This covers at high-level the signs of an organization's culture. The value here is identifying what organizations' culture best fits the job seeker.
-
-
 # Infrastructure as a Code (IaC)
 
 There are some tools to automate your infrastructure:
@@ -22,9 +8,14 @@ There are some tools to automate your infrastructure:
 - [Ansible](https://docs.ansible.com/ansible/latest/scenario_guides/guide_aws.html) - Orchestration engine to automate configuration
 - [Terraform](https://www.terraform.io/docs/providers/aws/index.html) - Infrastructure as Code to provision and manage any cloud, infrastructure, or service
 
+## How to move infrastructure to code?
+- [terraformer](https://github.com/GoogleCloudPlatform/terraformer)
+- [former2](https://github.com/iann0036/former2)
+- [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder)
+- [AWS CloudFormation: Bringing existing resources into CloudFormation management](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/resource-import.html) - requires creating a CF template manually before the import
 
 # How to architect and choose the best solution?
-1. Figure out what the factors that are important to the organization are (it's rarely "cheapest possible" or "latest hype" option)
+1. Figure out what the factors that are important to the organization are (it's rarely "the cheapest possible" or "latest hype" option)
     1. If it is an improvement to an existing product, think about the existing project stakeholders and how the change will affect them
     2. If it is a new project, think about how the product will be used in production
 2. Define and compare several approaches, follow [KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
@@ -126,6 +117,10 @@ Useful resources:
 - [AWS re:Invent 2019: National Australia Bank: Automating governance in Financial Services (SEC352)](https://www.youtube.com/watch?v=ll50dAiKPoI)
 - [Financial Services Industry Lens – AWS Well-Architected](https://docs.aws.amazon.com/wellarchitected/latest/financial-services-industry-lens/welcome.html)
 
+# How to create AWS networks?
+1. [Amazon VPC console wizard configurations](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_wizard.html)
+2. [AWS Client VPN - Scenarios and examples](https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/scenario.html)
+3. [Transit Gateway](https://medium.com/@heycasey/creating-a-transit-gateway-6e3df814a07a) - ([Paul Casey](https://www.linkedin.com/in/heycasey/))
 
 # Serverless
 
