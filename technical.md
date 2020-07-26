@@ -121,6 +121,8 @@ Useful resources:
 1. [Amazon VPC console wizard configurations](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_wizard.html)
 2. [AWS Client VPN - Scenarios and examples](https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/scenario.html)
 3. [Transit Gateway](https://medium.com/@heycasey/creating-a-transit-gateway-6e3df814a07a) - ([Paul Casey](https://www.linkedin.com/in/heycasey/))
+4. [autovpn](https://github.com/ttlequals0/autovpn) for on demand disposable OpenVPN endpoints
+5. [AWS Systems Manager Session Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html)/[Bastillion](https://github.com/bastillion-io/Bastillion) to connect to EC2 instances
 
 # Serverless
 
