@@ -4,4 +4,4 @@
 
 # How can I make cloud security audits?
 1. Use free tools like [prowler](https://github.com/toniblyx/prowler) for audit or [Cloud Custodian](https://cloudcustodian.io/docs/index.html) for compliance
-2. [https://aws.amazon.com/security-hub](AWS Security Hub) can be overcomplicated but works
+2. [AWS Security Hub](https://aws.amazon.com/security-hub) can be overcomplicated but works
