@@ -20,7 +20,7 @@ If you have suggestions or interesting links to share with cloud community, spec
 
 # Main Contributors
 
--  [Dreadstar22](https://www.reddit.com/user/Dreadstar22) - June 4th 2020 - First Draft
+-  [Keith Bachmann](https://www.linkedin.com/in/keith-bachmann/) - June 4th 2020 - First Draft
 -  [neilthecellist](https://www.reddit.com/user/neilthecellist/)
 -  [meshuga](https://github.com/meshuga)
 -  [Leandro Damascena](https://github.com/leandrodamascena)
