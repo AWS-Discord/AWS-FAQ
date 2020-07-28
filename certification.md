@@ -56,7 +56,7 @@
 
 # Demos and Labs
 
-1. [LearnCantrillIOLabs](https://github.com/acantril/learn-cantrill-io-labs). 
+1. [Learn-Cantrill-IO-Labs](https://github.com/acantril/learn-cantrill-io-labs). 
 
 # AWS Whitepaper Help (in no particular order)
 
