@@ -54,6 +54,9 @@
 
 5. [Exam Pro](https://www.exampro.co/) included with courses
 
+# Demos and Labs
+
+1. [LearnCantrillIOLabs](https://github.com/acantril/learn-cantrill-io-labs). 
 
 # AWS Whitepaper Help (in no particular order)
 
