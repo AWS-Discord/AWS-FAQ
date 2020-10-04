@@ -2,21 +2,19 @@
 
 1. [learn.cantrill.io](https://learn.cantrill.io/) - ([Adrian Cantrill](https://www.linkedin.com/in/adriancantrill/))
 
-2. [Linux Academy](https://linuxacademy.com/) - (multiple authors)
+2. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
 
-3. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
+3. [Tutorial Dojo](https://tutorialsdojo.com/) - ([Jon Bonso](https://www.linkedin.com/in/jonbonso/))
 
-4. [Tutorial Dojo](https://tutorialsdojo.com/) - ([Jon Bonso](https://www.linkedin.com/in/jonbonso/))
+4. [A Cloud Guru](https://acloud.guru/) - (multiple authors)
 
-5. [A Cloud Guru](https://acloud.guru/) - (multiple authors)
+5. [Digital Cloud Training](https://digitalcloud.training/) - ([Neal Davis](https://www.linkedin.com/in/nealkdavis/))
 
-6. [Digital Cloud Training](https://digitalcloud.training/) - ([Neal Davis](https://www.linkedin.com/in/nealkdavis/))
+6. [WhizLabs](https://www.whizlabs.com/) 
 
-7. [WhizLabs](https://www.whizlabs.com/) 
+7. [Exam Pro](https://www.exampro.co/) - ([Andrew Brown](https://www.linkedin.com/in/andrew-wc-brown/))
 
-8. [Exam Pro](https://www.exampro.co/) - ([Andrew Brown](https://www.linkedin.com/in/andrew-wc-brown/))
-
-9. [CBT Nuggets](https://www.cbtnuggets.com/certification-playlist/aws) - (Anthony Sequeria, [Bart Castle](https://www.linkedin.com/in/bartcastleit/), [Ben Finkel](https://www.linkedin.com/in/benjaminfinkel/))
+8. [CBT Nuggets](https://www.cbtnuggets.com/certification-playlist/aws) - (Anthony Sequeria, [Bart Castle](https://www.linkedin.com/in/bartcastleit/), [Ben Finkel](https://www.linkedin.com/in/benjaminfinkel/))
 
 **Verify the course you are looking at is for the exam version you are going to take.**
 
@@ -29,17 +27,15 @@
 
 3. [Digital Cloud Training](https://digitalcloud.training/) - (Neal Davis)
 
-4. [LinuxAcademy](https://www.linuxacademy.com) - (multiple authors)
+4. [AWS Exam Readiness](https://www.aws.training/LearningLibrary?&search=exam%20readiness&tab=digital_courses) (free recap made by exams creators)
 
-5. [AWS Exam Readiness](https://www.aws.training/LearningLibrary?&search=exam%20readiness&tab=digital_courses) (free recap made by exams creators)
+5. [Review Prep](https://reviewnprep.com/quiz)
 
-6. [Review Prep](https://reviewnprep.com/quiz)
+6. [Quizlet](https://www.reddit.com/r/AWSCertifications/comments/gz6ie9/quizlets_aws_certification_practice_questions_by)
 
-7. [Quizlet](https://www.reddit.com/r/AWSCertifications/comments/gz6ie9/quizlets_aws_certification_practice_questions_by)
+7. [Exam Pro](https://www.exampro.co/) included with courses
 
-8. [Exam Pro](https://www.exampro.co/) included with courses
-
-9. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
+8. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
 
 
 # AWS Certification Cheat Sheets (in no particular order)
