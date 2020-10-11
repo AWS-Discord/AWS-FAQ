@@ -156,3 +156,6 @@ Serverless world is growing and there are many interesting articles and reposito
 - [AWS Lambda offline development](https://www.vittorionardone.it/en/2020/05/12/aws-lambda-offline-development-with-docker/) with Docker
 - Serverless: a backend thing that gives [superpowers to frontend developers](https://dev.to/aws-heroes/serverless-a-backend-thing-that-gives-superpowers-to-frontend-developers-163c)
 - [CDK Patterns](https://cdkpatterns.com/)
+
+# AWS online challenges
+- [AWS common security issues exploit](http://flaws.cloud)
