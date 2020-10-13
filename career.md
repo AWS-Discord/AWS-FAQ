@@ -23,12 +23,15 @@ While not specific to AWS, the [DevOps Roadmap](https://roadmap.sh/devops) is in
 That being said, for DevOps position, here is a very general idea to get you started:
 1. At least 1 major cloud associate level certification (AWS, Azure, GCP)</li>
 2. At least 1 hands on with Ansible, Puppet, Chef, Salt</li>
-3. At least 1 hands on with Terraform, Pulumi, AWS Cloudformation, Azure ARM, GCP Deployment Manager</li>
-4. At least 1 hands on with Docker or Kubernetes</li>
-5. At least one scripting language, perf Python, JavaScript, Go, or Java</li>
-6. At least 1 Windows or Linux, perf both</li>
-7. An understanding of DevOps and Agile environments</li>
+3. At least 1 hands on with Docker or Kubernetes</li>
+4. At least one scripting language, perf Python, JavaScript, Go, or Java</li>
+5. At least 1 Windows or Linux, perf both</li>
+6. An understanding of DevOps and Agile environments</li>
 
+When you have a good grasp of the above, these are some "good to knows":
+1. At least 1 hands on with Pulumi or Terraform </li>
+2. At least 1 hands on with Gitlab CI, Github Actions, Jenkins, Drone CI, or Circle CI </li>
+3. At least 1 hands on with ArgoCD, and Spinnaker </li>
 
 ## Software/Cloud Engineer role
 Software/Cloud Engineer is responsible for a business logic that is about to be implemented ([more in the definition](https://www.comptia.org/blog/your-next-move-cloud-engineer)). Since in such role, work on the actual code is being done, automation skills are not so important but a practical knowledge of tools that help you implement logic is necessary. That include:
