@@ -31,7 +31,7 @@ That being said, for DevOps position, here is a very general idea to get you sta
 When you have a good grasp of the above, these are some "good to knows":
 1. At least 1 hands on with Pulumi or Terraform </li>
 2. At least 1 hands on with Gitlab CI, Github Actions, Jenkins, Drone CI, or Circle CI </li>
-3. At least 1 hands on with ArgoCD, and Spinnaker </li>
+3. At least 1 hands on with ArgoCD, and Spinnaker </li      >
 
 ## Software/Cloud Engineer role
 Software/Cloud Engineer is responsible for a business logic that is about to be implemented ([more in the definition](https://www.comptia.org/blog/your-next-move-cloud-engineer)). Since in such role, work on the actual code is being done, automation skills are not so important but a practical knowledge of tools that help you implement logic is necessary. That include:
