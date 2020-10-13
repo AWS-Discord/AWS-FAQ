@@ -23,10 +23,11 @@ While not specific to AWS, the [DevOps Roadmap](https://roadmap.sh/devops) is in
 That being said, for DevOps position, here is a very general idea to get you started:
 1. At least 1 major cloud associate level certification (AWS, Azure, GCP)</li>
 2. At least 1 hands on with Ansible, Puppet, Chef, Salt</li>
-3. At least 1 hands on with Docker or Kubernetes</li>
-4. At least one scripting language, perf Python, JavaScript, Go, or Java</li>
-5. At least 1 Windows or Linux, perf both</li>
-6. An understanding of DevOps and Agile environments</li>
+3. At least 1 hands on with Terraform, Pulumi, AWS Cloudformation, Azure ARM, GCP Deployment Manager</li>
+4. At least 1 hands on with Docker or Kubernetes</li>
+5. At least one scripting language, perf Python, JavaScript, Go, or Java</li>
+6. At least 1 Windows or Linux, perf both</li>
+7. An understanding of DevOps and Agile environments</li>
 
 
 ## Software/Cloud Engineer role
