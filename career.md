@@ -29,7 +29,7 @@ That being said, for DevOps position, here is a very general idea to get you sta
 6. An understanding of DevOps and Agile environments</li>
 
 When you have a good grasp of the above, these are some "good to knows":
-1. At least 1 hands on with Pulumi or Terraform </li>
+1. At least 1 hands on with Pulumi, CDK or Terraform </li>
 2. At least 1 hands on with Gitlab CI, Github Actions, Jenkins, Drone CI, or Circle CI </li>
 3. At least 1 hands on with ArgoCD, and Spinnaker </li>
 
