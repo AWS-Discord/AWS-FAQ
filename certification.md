@@ -1,44 +1,71 @@
-# AWS Certification Course Resources (in no particular order)
+# Will a certification get me a job?
+
+Yes and no.  We want to set expectations below:
+
+A certification alone will not get you a job.
+
+Imagine a scenario where you are hiring a professional driver and 16 year old applies and states that they have a drivers license.<br/>
+Is that enough?<br/>
+The answer is probably no.  It's nice that they got one, and sometimes it's a requirement, but you're going to want a bit more before you decide to hand them the keys.
+
+# So there's no point in getting a certification?
+
+Not correct.<br/>
+Getting the certifications won't secure the position, but studying for them will be an invaluable experience and that's why is so important to find quality course materials and don't just [try to pass.](https://www.linkedin.com/pulse/fake-certs-what-why-theyre-bad-adrian-cantrill)<br/>
+TL;DR AWS exams don't cover everything you should know in order to get hired.  
+
+For a longer explanation, check out [this post.](https://www.reddit.com/r/AmazonWebServices/comments/ga0tqc/why_an_aws_certification_will_not_get_you_an_aws/)
+
+# Will the Certified Cloud Practitioner (CCP) get me a job?
+
+CCP is essentially a brochure for AWS Services.  They're for non-technical people like salespeople or people that are really new to tech.  There is no return on investment for it.  You can put it on your resume but an employer is 100% going to say "That's it?"
+
+Only in the case where you really do want to collect all the certifications for your own personal satisfaction, then go for it.
+
+# What certification should I go for then?
+
+If you're looking for that first stepping stone, go for [AWS Certified Solutions Architect - Associate.](https://aws.amazon.com/certification/certified-solutions-architect-associate/)  This test give a broad overview over all the AWS services and provides a good starting point for your AWS career.  There's about 60% overlap for each of the other two associate exams, which go a little deeper on their respective titles.  
+
+# What course do you recommend for getting my certification?
+
+There are two course providers most recommended by the community because of their quality, their consistency on staying up to date, and repeated success in passing exams.  
 
 1. [learn.cantrill.io](https://learn.cantrill.io/) - ([Adrian Cantrill](https://www.linkedin.com/in/adriancantrill/))
+    This coursework is recommended for beginners who have a strong desire to learn and want to succeed in their work beyond just passing a test.  It has great explanations on cloud concepts and hands-on labs to give the experience needed.  The teacher is also interactive with students on the discord and his own slack channel.  It's the longer of the two courses but if you want a more comprehensive learning experience, take this one.
 
 2. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
-
-3. [Tutorial Dojo](https://tutorialsdojo.com/) - ([Jon Bonso](https://www.linkedin.com/in/jonbonso/))
-
-4. [A Cloud Guru](https://acloud.guru/) - (multiple authors)
-
-5. [Digital Cloud Training](https://digitalcloud.training/) - ([Neal Davis](https://www.linkedin.com/in/nealkdavis/))
-
-6. [WhizLabs](https://www.whizlabs.com/) 
-
-7. [Exam Pro](https://www.exampro.co/) - ([Andrew Brown](https://www.linkedin.com/in/andrew-wc-brown/))
-
-8. [CBT Nuggets](https://www.cbtnuggets.com/certification-playlist/aws) - (Anthony Sequeria, [Bart Castle](https://www.linkedin.com/in/bartcastleit/), [Ben Finkel](https://www.linkedin.com/in/benjaminfinkel/))
+    This coursework is recommended for people who have some experience already and just need to pass the test. It's the shorter of the two but the information is sufficient to pass the exam.  If you are already a cloud professional and just need a relatively quick win, take this one.  
 
 **Verify the course you are looking at is for the exam version you are going to take.**
 
+# Where can I find practice exams?
 
-# AWS Certification Practice Exams (in no particular order)
+There are several practice exams out there but their quality is often subpar.  Ranging from incorrect answers that take a long time to correct to others getting reference material from actual exam dumps (Read below on why this is unhelpful).
 
 1. [Tutorial Dojo](https://tutorialsdojo.com/) - (Jon Bonso)
+    This is the most recommended practice quiz by the community (and course work creators) in that the exams are often a bit harder than the test itself.  It offers explanations on why the answer was correct/incorrect and source material to verify.  Test takers have reported multiple times, by a wide margin, that these quizzes prepared them more sufficiently for the exam itself than anything else.
 
-2. [WhizLabs](https://www.whizlabs.com/)
+Why You Should Avoid [Exams Dumps](https://www.reddit.com/r/AmazonWebServices/comments/gn0m97/why_you_should_avoid_aws_exam_dumps/)<br/>
+TL;DR  Amazon is fully aware of dumps and purposely makes small changes to their test questions to trip up people who just memorized the answer and not the details.  They've been pretty effective at finding cheaters as a result.  Even if Amazon doesn't catch you, this field requires so much technical knowledge that employers will likely figure it out too.
 
-3. [Digital Cloud Training](https://digitalcloud.training/) - (Neal Davis)
+# I have a good theoretical understanding about cloud services, where can I find some hands on labs?
 
-4. [AWS Exam Readiness](https://www.aws.training/LearningLibrary?&search=exam%20readiness&tab=digital_courses) (free recap made by exams creators)
+1. [Learn-Cantrill-IO-Labs](https://github.com/acantril/learn-cantrill-io-labs).
 
-5. [Review Prep](https://reviewnprep.com/quiz)
+# Has anyone else taken this exam?
 
-6. [Quizlet](https://www.reddit.com/r/AWSCertifications/comments/gz6ie9/quizlets_aws_certification_practice_questions_by)
+There's tons of write-ups from people who took the exam and wanted to write about their experiences.  Your best bet is to google the exam you're taking and look through blogs, or add Reddit to the search query and search through that.  Do be careful of spam accounts looking to sell bad courses or exam dumps.
 
-7. [Exam Pro](https://www.exampro.co/) included with courses
+# There's an exam topic that I'm having a hard time understanding.
 
-8. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
+Hop on over to our [discord](https://discord.gg/aws) and ask!  Most people on there like to help and teach.
+Do keep in mind that you should aim for asking [thoughtful questions](https://dontasktoask.com/) and not low effort questions.  You're more likely to get assistance with what you need if you can show that you've put some effort into figuring it out.
 
+If you're new to interacting with professional tech workers online then peruse [this](http://www.catb.org/esr/faqs/smart-questions.html) to get a better understanding on what the community expects from you.
 
-# AWS Certification Cheat Sheets (in no particular order)
+# Got anything else?
+
+Yes, here's some notes and cheat sheets below.  You can peruse and see if they're useful.
 
 1. [Tutorial Dojo](https://tutorialsdojo.com/) - (Jon Bonso) 
 
@@ -49,123 +76,3 @@
 4. [AWS in Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
 
 5. [Exam Pro](https://www.exampro.co/) included with courses
-
-# Demos and Labs
-
-1. [Learn-Cantrill-IO-Labs](https://github.com/acantril/learn-cantrill-io-labs). 
-
-# AWS Whitepaper Help (in no particular order)
-
-1. AWS Ramp Up PDFs
-
-    1. [Business-Finance](https://cdn.discordapp.com/attachments/570278657323565066/695249732137648128/AWS_RampUp_Business-Finance.pdf)
-
-    2. [Architect](https://cdn.discordapp.com/attachments/570278657323565066/695249730397274152/AWSRampUp_Architect.pdf)
-
-    3. [Developer](https://cdn.discordapp.com/attachments/570278657323565066/695249728857833513/AWSRampUp_Developer.pdf)
-
-    4. [Operations](https://cdn.discordapp.com/attachments/570278657323565066/695249723191459900/AWSRampUp_Operations.pdf)
-
-2. Knowledge Hut [Whitepaper Recommendations](https://www.knowledgehut.com/blog/cloud-computing/recommended-aws-whitepapers)
-
-3. AWS Well Architected Whitepapers
-
-    5. [Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
-
-    6. [Operational Excellence](https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf)
-
-    7. [Security](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
-
-    8. [Reliability](https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)
-
-    9. [Performance](https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf)
-
-    10. [Cost](https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf)
-
-
-# Re:Invent presentations - AWS CSAP (in no particular order)
-
-1. AWS re:Invent 2015: [Deep Dive in AWS Direct Connect and VPNs](https://www.youtube.com/watch?v=SMvom9QjkPk)
-
-2. AWS re:Invent 2018: [Extending Data Centers to Cloud: Connectivity Options & Best](https://www.youtube.com/watch?v=LNYY3bMSiHM)
-
-3. AWS re:Invent 2017: [Identity Management for Your Users and Apps: A Deep Dive](https://www.youtube.com/watch?v=jLQjQpUYw6g)
-
-4. AWS re:Invent 2019: [Deep Dive on Amazon Aurora with MySQL Compatibility](https://www.youtube.com/watch?v=GwEtiRZR4g4)
-
-5. AWS re:Invent 2019: [Deep Dive and Best Practices for Amazon Redshift](https://www.youtube.com/watch?v=lj8oaSpCFTc)
-
-6. AWS re:Invent 2019: [A Serverless Journey: AWS Lambda Under the Hood](https://www.youtube.com/watch?v=xmacMfbrG28)
-
-7. AWS re:Invent 2019: [I didn’t know Amazon API Gateway did that](https://www.youtube.com/watch?v=yfJZc3sJZ8E)
-
-8. AWS re:Invent 2019: [Get started on your migration business case](https://www.youtube.com/watch?v=GI4CdlnxuhU) 
-
-9. AWS re:Invent 2019: [Build hybrid storage architectures with AWS Storage Gateway](https://www.youtube.com/watch?v=iGYNhNLFnJs)
-
-10. AWS re:Invent 2018: [Streamlining Application Development with AWS Service Catalog](https://www.youtube.com/watch?v=jvAAiWxYQwg)
-
-11. AWS re:Invent 2018: [Architecture Patterns for Multi-Region Active-Active Applications ](https://www.youtube.com/watch?v=2e29I3dA8o4vvvvv)
-
-12. AWS re:Invent 2019: [Introduction to DevOps on AWS](https://www.youtube.com/watch?v=wugkTArXBYo)
-
-13. AWS re:Invent 2019: [Amazon DynamoDB Deep Dive: Advanced Design Patterns](https://www.youtube.com/watch?v=6yqfmXiZTlM)
-
-1. 2019 Re:Invent [Session & Video List](http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2019/2019.html)
-
-2. 2019 Re:Invent [Presentations](http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2019/2019_presentations.html)
-
-**Change 2019 to 2016, 2017, 2018 in both places in the URL for that year's session, video, and presentations. **
-
-
-# What Certification Should I Get?
-
-1. [Your Future](https://www.youtube.com/watch?v=oxZa1oSGUps) - ([David Bombal](https://www.linkedin.com/in/davidbombal/))
-
-
-# More Resources? (in no particular order)
-
-CCP Write Ups
-
-1. [AWS CCP - Thoughts, My Journey, My Opinion](https://www.reddit.com/r/AWSCertifications/comments/grlzah/aws_ccp_thoughts_my_journey_my_opinion/)
-
-CSAA Write Ups
-
-1. [AWS CSAA - Thoughts, My Journey, My Opinion, What’s Next](https://www.reddit.com/r/AWSCertifications/comments/grn03n/aws_csaa_thoughts_my_journey_my_opinion_what_next/)
-
-2. [Thoughts AWS Certified Associate Exam](https://intrinsecsecurity.com/thoughts-aws-certified-architect-associate-exam/)
-
-3. [Passing AWS Solutions Architect Exam in 2019](https://blog.usejournal.com/passing-the-aws-solutions-architect-associate-exam-in-2019-81fccb7caebd)
-
-4. [So You Want To Learn AWS](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/)
-
-5. AWS CSAA [Bullet Point Study Guide](https://github.com/undergroundwires/AWS-in-bullet-points)
-
-Real World Examples
-
-1. Amazon’s [This Is My Architecture](https://aws.amazon.com/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc)
-
-Success Stories
-
-1. [How I Went From 14hr to 70k with no experience!](https://www.reddit.com/r/ITCareerQuestions/comments/bhfegj/how_i_went_from_14hr_to_70k_with_no_experience/)
-
-2. [Tossing My Coin That Hat Too I'm A College Dropout](https://www.reddit.com/r/ITCareerQuestions/comments/gc9a1v/tossing_my_coin_that_hat_too_im_a_college_dropout/)
-
-3. [Guide to Passing All 3 AWS Associate Level Certifications](https://medium.com/@annamcabee/guide-to-passing-all-3-aws-associate-level-certifications-73516bcef6e1)
-
-4. [How to Pass Three AWS Associate Certifications In One Month](https://www.contino.io/insights/how-to-pass-three-aws-associate-certifications-in-one-month)
-
-Exam Preparation
-
-1. [30 minute extension for your AWS Certification exam](https://www.linkedin.com/pulse/30-minute-extension-your-aws-certification-exam-garcia-lozano/)
-
-# AWS Topics more:Explanation
-
-1. [Transit Gateway](https://medium.com/@heycasey/creating-a-transit-gateway-6e3df814a07a) - ([Paul Casey](https://www.linkedin.com/in/heycasey/))
-
-2. [AWS Stash](https://awsstash.com/) - filterable collection of AWS resources
-
-
-# Recommended Reddit posts
-
-1. Why You Should Avoid [Exams Dumps](https://www.reddit.com/r/AmazonWebServices/comments/gn0m97/why_you_should_avoid_aws_exam_dumps/)
