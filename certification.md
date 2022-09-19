@@ -4,27 +4,27 @@ Yes and no.  We want to set expectations below:
 
 A certification alone will not get you a job.
 
-Imagine a scenario where you are hiring a professional driver and 16 year old applies and states that they have a drivers license.<br/>
+Imagine a scenario where you are hiring a professional driver and a 16 year old applies and states that they have a drivers license.<br/>
 Is that enough?<br/>
 The answer is probably no.  It's nice that they got one, and sometimes it's a requirement, but you're going to want a bit more before you decide to hand them the keys.
 
 # So there's no point in getting a certification?
 
 Not correct.<br/>
-Getting the certifications won't secure the position, but studying for them will be an invaluable experience and that's why is so important to find quality course materials and don't just [try to pass.](https://www.linkedin.com/pulse/fake-certs-what-why-theyre-bad-adrian-cantrill)<br/>
+Getting the certifications won't secure the position, but studying for them will be an invaluable experience and that's why it's so important to find quality course materials and don't [just try to pass.](https://www.linkedin.com/pulse/fake-certs-what-why-theyre-bad-adrian-cantrill)<br/>
 TL;DR AWS exams don't cover everything you should know in order to get hired.  
 
 For a longer explanation, check out [this post.](https://www.reddit.com/r/AmazonWebServices/comments/ga0tqc/why_an_aws_certification_will_not_get_you_an_aws/)
 
-# Will the Certified Cloud Practitioner (CCP) get me a job?
+# Should I get the Certified Cloud Practitioner (CCP)?
 
 CCP is essentially a brochure for AWS Services.  They're for non-technical people like salespeople or people that are really new to tech.  There is no return on investment for it.  You can put it on your resume but an employer is 100% going to say "That's it?"
 
-Only in the case where you really do want to collect all the certifications for your own personal satisfaction, then go for it.
+Only if you're really new to the field or like collecting certifications, then it would make sense for you to get it.
 
 # What certification should I go for then?
 
-If you're looking for that first stepping stone, go for [AWS Certified Solutions Architect - Associate.](https://aws.amazon.com/certification/certified-solutions-architect-associate/)  This test give a broad overview over all the AWS services and provides a good starting point for your AWS career.  There's about 60% overlap for each of the other two associate exams, which go a little deeper on their respective titles.  
+If you're looking for that first stepping stone, go for [AWS Certified Solutions Architect - Associate.](https://aws.amazon.com/certification/certified-solutions-architect-associate/)  This test gives a broad overview over all the AWS services and provides a good starting point for your AWS career.  There's about 60% overlap over each of the other two associate exams, which go a little deeper on their respective titles.  
 
 # What course do you recommend for getting my certification?
 
