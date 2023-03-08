@@ -74,5 +74,3 @@ Yes, here's some notes and cheat sheets below.  You can peruse and see if they'r
 3. [Curated list](https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc) of AWS resources for the certification 
 
 4. [AWS in Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
-
-5. [Exam Pro](https://www.exampro.co/) included with courses
