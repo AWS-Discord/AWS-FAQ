@@ -1,6 +1,6 @@
 # AWS FAQ
 
-[![Discord](https://img.shields.io/discord/423842546947457024.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/JAD53yM)
+[![Discord](https://img.shields.io/discord/423842546947457024.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/aws)
 [![Hits-of-Code](https://sloc.xyz/github/dreadstar22/aws-faq)](https://github.com/Dreadstar22/AWS-FAQ)
 [![GitHub license](https://img.shields.io/github/license/Dreadstar22/AWS-FAQ.svg)](https://github.com/Dreadstar22/AWS-FAQ/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
