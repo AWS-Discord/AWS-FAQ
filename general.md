@@ -1,11 +1,10 @@
 # Communities (in no particular order)
-1. Linux Academy Slack - [https://linuxacademy-community-slack.herokuapp.com/](https://linuxacademy-community-slack.herokuapp.com/)
-2. Learn.cantrill.io Slack - [https://techstudyslack.com/](https://techstudyslack.com/)
-3. [NetworkChuck](https://www.linkedin.com/in/chuckkeith/) Discord - [https://discord.gg/networkchuck](https://discord.gg/networkchuck)
-4. Tortoise - Python Beginner Discord - [https://discord.gg/8DnGKc2](https://discord.gg/8DnGKc2)
-5. OG-AWS Slack - [https://og-aws-slack.lexikon.io/](https://og-aws-slack.lexikon.io/)
-6. DevOpsChatCo Slack - [https://devopschat.co/register](https://devopschat.co/register)
-7. AWS Community Discord - [https://discord.gg/JN9FMbm](https://discord.gg/JN9FMbm) 
+1. Learn.cantrill.io Slack - [https://techstudyslack.com/](https://techstudyslack.com/)
+2. [NetworkChuck](https://www.linkedin.com/in/chuckkeith/) Discord - [https://discord.gg/networkchuck](https://discord.gg/networkchuck)
+3. Tortoise - Python Beginner Discord - [https://discord.com/invite/grtzHzgz](https://discord.com/invite/grtzHzgz)
+4. OG-AWS Slack - [https://og-aws-slack.lexikon.io/](https://og-aws-slack.lexikon.io/)
+5. DevOpsChatCo Slack - [https://devopschat.co/register](https://devopschat.co/register)
+6. AWS Community Discord - [https://discord.gg/JN9FMbm](https://discord.gg/JN9FMbm) 
 
 
 # Related AWS Github Repos
