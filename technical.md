@@ -2,10 +2,12 @@
 
 There are some tools to automate your infrastructure:
 
-- [AWS CLI](https://aws.amazon.com/cli/) - AWS Command Line Interface
-- [Cloudformation](https://aws.amazon.com/cloudformation/) - Language model to provision AWS resources
-- [AWS CDK](https://aws.amazon.com/cdk/) - AWS Cloud Development Kit
 - [Ansible](https://docs.ansible.com/ansible/latest/scenario_guides/guide_aws.html) - Orchestration engine to automate configuration
+- [AWS CLI](https://aws.amazon.com/cli/) - AWS Command Line Interface
+- [AWS CDK](https://aws.amazon.com/cdk/) - AWS Cloud Development Kit
+- [AWS Cloudformation](https://aws.amazon.com/cloudformation/) - Language model to provision AWS resources
+- [OpenTufu](https://opentofu.org/) - Fork of Terraform that is open-source, community-driven, and managed by the Linux Foundation
+- [Pulumi](https://www.pulumi.com/) - Infrastructure as Code to provision and manage any cloud, infrastructure, or service
 - [Terraform](https://www.terraform.io/docs/providers/aws/index.html) - Infrastructure as Code to provision and manage any cloud, infrastructure, or service
 
 ## How to move infrastructure to code?
