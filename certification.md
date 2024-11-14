@@ -28,13 +28,9 @@ If you're looking for that first stepping stone, go for [AWS Certified Solutions
 
 # What course do you recommend for getting my certification?
 
-There are two course providers most recommended by the community because of their quality, their consistency on staying up to date, and repeated success in passing exams.  
+The community only recommends one course consistently because of the professionalism, the quality, the consistency on staying up to date, and the repeated success in passing exams.  
 
-1. [learn.cantrill.io](https://learn.cantrill.io/) - ([Adrian Cantrill](https://www.linkedin.com/in/adriancantrill/))
-    This coursework is recommended for beginners who have a strong desire to learn and want to succeed in their work beyond just passing a test.  It has great explanations on cloud concepts and hands-on labs to give the experience needed.  The teacher is also interactive with students on the discord and his own slack channel.  It's the longer of the two courses but if you want a more comprehensive learning experience, take this one.
-
-2. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy)
-    This coursework is recommended for people who have some experience already and just need to pass the test. It's the shorter of the two but the information is sufficient to pass the exam.  If you are already a cloud professional and just need a relatively quick win, take this one.  
+1. [courses.datacumulus.com](https://courses.datacumulus.com/) - ([Stephane Maarek](https://www.linkedin.com/in/stephanemaarek/) - on Udemy) 
 
 **Verify the course you are looking at is for the exam version you are going to take.**
 
