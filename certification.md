@@ -14,7 +14,7 @@ Not correct.<br/>
 Getting the certifications won't secure the position, but studying for them will be an invaluable experience and that's why it's so important to find quality course materials and don't [just try to pass.](https://www.linkedin.com/pulse/fake-certs-what-why-theyre-bad-adrian-cantrill)<br/>
 TL;DR AWS exams don't cover everything you should know in order to get hired.  
 
-For a longer explanation, check out [this post.](https://www.reddit.com/r/AmazonWebServices/comments/ga0tqc/why_an_aws_certification_will_not_get_you_an_aws/)
+For a longer explanation, check out [this post.](https://pastebin.com/nFY4SxRM)
 
 # Should I get the Certified Cloud Practitioner (CCP)?
 
