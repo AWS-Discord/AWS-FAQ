@@ -14,13 +14,13 @@ Not correct.<br/>
 Getting the certifications won't secure the position, but studying for them will be an invaluable experience and that's why it's so important to find quality course materials and don't [just try to pass.](https://www.linkedin.com/pulse/fake-certs-what-why-theyre-bad-adrian-cantrill)<br/>
 TL;DR AWS exams don't cover everything you should know in order to get hired.  
 
-For a longer explanation, check out [this post.](https://pastebin.com/nFY4SxRM)
+For a longer explanation, check out [this post.](https://digitalcloud.training/why-an-aws-certification-will-not-get-you-an-aws-job/)
 
 # Should I get the Certified Cloud Practitioner (CCP)?
 
-CCP is essentially a brochure for AWS Services.  They're for non-technical people like salespeople or people that are really new to tech.  There is no return on investment for it.  You can put it on your resume but an employer is 100% going to say "That's it?"
+CCP is essentially a brochure for AWS Services.  They're for non-technical people like salespeople or people that are really new to tech.  There is no return on investment for it.  You can put it on your resume but an employer isn't going to be impressed in the least bit.
 
-Only if you're really new to the field or like collecting certifications, then it would make sense for you to get it.
+If you're really new to tech or just like collecting certifications, then by all means, go for it.
 
 # What certification should I go for then?
 
@@ -41,12 +41,13 @@ There are several practice exams out there but their quality is often subpar.  R
 1. [Tutorial Dojo](https://tutorialsdojo.com/) - (Jon Bonso)
     This is the most recommended practice quiz by the community (and course work creators) in that the exams are often a bit harder than the test itself.  It offers explanations on why the answer was correct/incorrect and source material to verify.  Test takers have reported multiple times, by a wide margin, that these quizzes prepared them more sufficiently for the exam itself than anything else.
 
-Why You Should Avoid [Exams Dumps](https://www.reddit.com/r/AmazonWebServices/comments/gn0m97/why_you_should_avoid_aws_exam_dumps/)<br/>
+Why You Should Avoid [Exams Dumps](https://www.reddit.com/r/AWSCertifications/comments/gn0ngt/why_you_should_avoid_aws_exam_dumps/)<br/>
 TL;DR  Amazon is fully aware of dumps and purposely makes small changes to their test questions to trip up people who just memorized the answer and not the details.  They've been pretty effective at finding cheaters as a result.  Even if Amazon doesn't catch you, this field requires so much technical knowledge that employers will likely figure it out too.
 
 # I have a good theoretical understanding about cloud services, where can I find some hands on labs?
 
-1. [Learn-Cantrill-IO-Labs](https://github.com/acantril/learn-cantrill-io-labs).
+1. [AWS Well-Architected Labs](https://wellarchitectedlabs.com/).
+2. [AWS Workshops](https://workshops.aws/)
 
 # Has anyone else taken this exam?
 
