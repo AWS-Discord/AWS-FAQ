@@ -1,10 +1,10 @@
 # Communities (in no particular order)
-1. Learn.cantrill.io Slack - [https://techstudyslack.com/](https://techstudyslack.com/)
+1. AWS Community Discord - [https://discord.gg/aws](https://discord.gg/aws) 
 2. [NetworkChuck](https://www.linkedin.com/in/chuckkeith/) Discord - [https://discord.gg/networkchuck](https://discord.gg/networkchuck)
 3. Tortoise - Python Beginner Discord - [https://discord.com/invite/grtzHzgz](https://discord.com/invite/grtzHzgz)
 4. OG-AWS Slack - [https://og-aws-slack.lexikon.io/](https://og-aws-slack.lexikon.io/)
 5. DevOpsChatCo Slack - [https://devopschat.co/register](https://devopschat.co/register)
-6. AWS Community Discord - [https://discord.gg/JN9FMbm](https://discord.gg/JN9FMbm) 
+6. AWS Amplify Discord - [https://discord.gg/EfBrPyQd](https://discord.gg/EfBrPyQd)
 
 
 # Related AWS Github Repos
