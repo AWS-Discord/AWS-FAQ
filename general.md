@@ -4,7 +4,7 @@
 3. Tortoise - Python Beginner Discord - [https://discord.com/invite/grtzHzgz](https://discord.com/invite/grtzHzgz)
 4. OG-AWS Slack - [https://og-aws-slack.lexikon.io/](https://og-aws-slack.lexikon.io/)
 5. DevOpsChatCo Slack - [https://devopschat.co/register](https://devopschat.co/register)
-6. AWS Amplify Discord - [https://discord.gg/EfBrPyQd](https://discord.gg/EfBrPyQd)
+6. AWS Amplify Official Discord - [https://discord.gg/EfBrPyQd](https://discord.gg/EfBrPyQd)
 
 
 # Related AWS Github Repos
