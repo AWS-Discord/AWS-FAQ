@@ -11,7 +11,7 @@ The answer is probably no.  It's nice that they got one, and sometimes it's a re
 # So there's no point in getting a certification?
 
 Not correct.<br/>
-Getting the certifications won't secure the position, but studying for them will be an invaluable experience and that's why it's so important to find quality course materials and don't [just try to pass.](https://www.linkedin.com/pulse/fake-certs-what-why-theyre-bad-adrian-cantrill)<br/>
+Getting the certifications won't secure the position, but studying for them will be an invaluable experience and that's why it's so important to find quality course materials and don't just try to pass.<br/>
 TL;DR AWS exams don't cover everything you should know in order to get hired.  
 
 For a longer explanation, check out [this post.](https://digitalcloud.training/why-an-aws-certification-will-not-get-you-an-aws-job/)
