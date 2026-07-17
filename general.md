@@ -1,5 +1,5 @@
 # Communities (in no particular order)
-1. AWS Community Discord - [https://discord.gg/aws](https://discord.gg/aws) 
+1. AWS Community Discord - [https://discord.gg/JN9FMbm](https://discord.gg/JN9FMbm) 
 2. [NetworkChuck](https://www.linkedin.com/in/chuckkeith/) Discord - [https://discord.gg/networkchuck](https://discord.gg/networkchuck)
 3. Tortoise - Python Beginner Discord - [https://discord.com/invite/grtzHzgz](https://discord.com/invite/grtzHzgz)
 4. OG-AWS Slack - [https://og-aws-slack.lexikon.io/](https://og-aws-slack.lexikon.io/)
