@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/Dreadstar22/AWS-FAQ.svg)](https://github.com/Dreadstar22/AWS-FAQ/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-This repo consists of a series of FAQs, mostly from [AWS Community Discord](https://discord.gg/aws) on AWS and cloud related topics. Useful for people who start journey with AWS cloud to get an information on where to start, cloud professionals to find help in their everyday tasks and AWS employees that want to improve the AWS ecosystem.
+This repo consists of a series of FAQs, mostly from [AWS Community Discord](https://discord.com/invite/JN9FMbm) on AWS and cloud related topics. Useful for people who start journey with AWS cloud to get an information on where to start, cloud professionals to find help in their everyday tasks and AWS employees that want to improve the AWS ecosystem.
 
 The repo pages contain useful materials on the following topics:
 1. [Beginner](beginner.md)
