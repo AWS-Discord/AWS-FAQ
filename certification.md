@@ -55,7 +55,7 @@ There's tons of write-ups from people who took the exam and wanted to write abou
 
 # There's an exam topic that I'm having a hard time understanding.
 
-Hop on over to our [discord](https://discord.gg/aws) and ask!  Most people on there like to help and teach.
+Hop on over to our [discord](https://discord.gg/JN9FMbm) and ask!  Most people on there like to help and teach.
 Do keep in mind that you should aim for asking [thoughtful questions](https://dontasktoask.com/) and not low effort questions.  You're more likely to get assistance with what you need if you can show that you've put some effort into figuring it out.
 
 If you're new to interacting with professional tech workers online then peruse [this](http://www.catb.org/esr/faqs/smart-questions.html) to get a better understanding on what the community expects from you.
